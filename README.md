@@ -8,3 +8,4 @@ This project intends to implement the above in R to provide support to researche
 Please refer to below for related information:
 1. https://climate-adapt.eea.europa.eu/metadata/tools/climada
 2. https://wcr.ethz.ch/research/climada.html
+3. Aznar-Siguan, G. and Bresch, D. N., 2019: CLIMADA v1: a global weather and climate risk assessment platform, Geosci. Model Dev. Discuss., https://doi.org/10.5194/gmd-12-3085-2019
