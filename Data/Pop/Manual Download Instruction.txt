@@ -1,0 +1,2 @@
+Pls download and unzip tif files from below link:
+https://sedac.ciesin.columbia.edu/data/set/gpw-v4-population-count-rev11

@@ -1,0 +1,791 @@
+﻿,iso3c,date,value,indicatorID,indicator,iso2c,country
+1,ALB,1995,31147456071.76,NW.PCA.TO,Produced capital (constant 2014 US$),AL,Albania
+2,ARE,1995,968543618287.67,NW.PCA.TO,Produced capital (constant 2014 US$),AE,United Arab Emirates
+3,ARG,1995,1150131989661.64,NW.PCA.TO,Produced capital (constant 2014 US$),AR,Argentina
+4,ARM,1995,19058426180.43,NW.PCA.TO,Produced capital (constant 2014 US$),AM,Armenia
+5,AUS,1995,3671631206496.80,NW.PCA.TO,Produced capital (constant 2014 US$),AU,Australia
+6,AUT,1995,1366526558189.88,NW.PCA.TO,Produced capital (constant 2014 US$),AT,Austria
+7,AZE,1995,97281304570.04,NW.PCA.TO,Produced capital (constant 2014 US$),AZ,Azerbaijan
+8,BDI,1995,15181764727.34,NW.PCA.TO,Produced capital (constant 2014 US$),BI,Burundi
+9,BEL,1995,1404830002295.22,NW.PCA.TO,Produced capital (constant 2014 US$),BE,Belgium
+10,BFA,1995,14261626879.95,NW.PCA.TO,Produced capital (constant 2014 US$),BF,Burkina Faso
+11,BGD,1995,168882082842.53,NW.PCA.TO,Produced capital (constant 2014 US$),BD,Bangladesh
+12,BGR,1995,99922826014.85,NW.PCA.TO,Produced capital (constant 2014 US$),BG,Bulgaria
+13,BHR,1995,68128674603.13,NW.PCA.TO,Produced capital (constant 2014 US$),BH,Bahrain
+14,BIH,1995,12851700970.90,NW.PCA.TO,Produced capital (constant 2014 US$),BA,Bosnia and Herzegovina
+15,BLR,1995,209282145150.55,NW.PCA.TO,Produced capital (constant 2014 US$),BY,Belarus
+16,BLZ,1995,2214439948.73,NW.PCA.TO,Produced capital (constant 2014 US$),BZ,Belize
+17,BOL,1995,38236783889.05,NW.PCA.TO,Produced capital (constant 2014 US$),BO,Bolivia
+18,BRA,1995,4910174853954.26,NW.PCA.TO,Produced capital (constant 2014 US$),BR,Brazil
+19,BWA,1995,17094030611.26,NW.PCA.TO,Produced capital (constant 2014 US$),BW,Botswana
+20,CAF,1995,5145845029.98,NW.PCA.TO,Produced capital (constant 2014 US$),CF,Central African Republic
+21,CAN,1995,4025755843366.81,NW.PCA.TO,Produced capital (constant 2014 US$),CA,Canada
+22,CHE,1995,1985320219337.40,NW.PCA.TO,Produced capital (constant 2014 US$),CH,Switzerland
+23,CHL,1995,315970390410.09,NW.PCA.TO,Produced capital (constant 2014 US$),CL,Chile
+24,CHN,1995,5581810103134.75,NW.PCA.TO,Produced capital (constant 2014 US$),CN,China
+25,CIV,1995,71049715653.57,NW.PCA.TO,Produced capital (constant 2014 US$),CI,Cote d'Ivoire
+26,CMR,1995,55458142596.58,NW.PCA.TO,Produced capital (constant 2014 US$),CM,Cameroon
+27,COD,1995,167194133902.95,NW.PCA.TO,Produced capital (constant 2014 US$),CD,"Congo, Dem. Rep."
+28,COG,1995,41764219123.71,NW.PCA.TO,Produced capital (constant 2014 US$),CG,"Congo, Rep."
+29,COL,1995,917027627573.13,NW.PCA.TO,Produced capital (constant 2014 US$),CO,Colombia
+30,COM,1995,2426954542.87,NW.PCA.TO,Produced capital (constant 2014 US$),KM,Comoros
+31,CRI,1995,56378373352.45,NW.PCA.TO,Produced capital (constant 2014 US$),CR,Costa Rica
+32,DEU,1995,13882235053055.40,NW.PCA.TO,Produced capital (constant 2014 US$),DE,Germany
+33,DJI,1995,2819107798.10,NW.PCA.TO,Produced capital (constant 2014 US$),DJ,Djibouti
+34,DNK,1995,1070944279358.67,NW.PCA.TO,Produced capital (constant 2014 US$),DK,Denmark
+35,DOM,1995,74347906085.73,NW.PCA.TO,Produced capital (constant 2014 US$),DO,Dominican Republic
+36,EAP,1995,8564724772493.54,NW.PCA.TO,Produced capital (constant 2014 US$),4E,East Asia & Pacific (low and middle income)
+37,EAS,1995,27671821525716.80,NW.PCA.TO,Produced capital (constant 2014 US$),Z4,East Asia & Pacific
+38,ECA,1995,4945090234810.32,NW.PCA.TO,Produced capital (constant 2014 US$),7E,Europe & Central Asia (low and middle income)
+39,ECS,1995,73503091931607.70,NW.PCA.TO,Produced capital (constant 2014 US$),Z7,Europe & Central Asia
+40,ECU,1995,141642197827.76,NW.PCA.TO,Produced capital (constant 2014 US$),EC,Ecuador
+41,EGY,1995,349229047370.46,NW.PCA.TO,Produced capital (constant 2014 US$),EG,"Egypt, Arab Rep."
+42,ESP,1995,3688424451922.19,NW.PCA.TO,Produced capital (constant 2014 US$),ES,Spain
+43,EST,1995,94852072313.58,NW.PCA.TO,Produced capital (constant 2014 US$),EE,Estonia
+44,ETH,1995,80717645710.23,NW.PCA.TO,Produced capital (constant 2014 US$),ET,Ethiopia
+45,FIN,1995,825479897136.84,NW.PCA.TO,Produced capital (constant 2014 US$),FI,Finland
+46,FRA,1995,8503379419261.60,NW.PCA.TO,Produced capital (constant 2014 US$),FR,France
+47,GAB,1995,39924985059.86,NW.PCA.TO,Produced capital (constant 2014 US$),GA,Gabon
+48,GBR,1995,6598479136982.41,NW.PCA.TO,Produced capital (constant 2014 US$),GB,United Kingdom
+49,GEO,1995,58854456031.87,NW.PCA.TO,Produced capital (constant 2014 US$),GE,Georgia
+50,GHA,1995,84845700421.40,NW.PCA.TO,Produced capital (constant 2014 US$),GH,Ghana
+51,GIN,1995,7576627129.61,NW.PCA.TO,Produced capital (constant 2014 US$),GN,Guinea
+52,GMB,1995,1124452655.24,NW.PCA.TO,Produced capital (constant 2014 US$),GM,"Gambia, The"
+53,GRC,1995,1223058437246.77,NW.PCA.TO,Produced capital (constant 2014 US$),GR,Greece
+54,GTM,1995,52897656448.35,NW.PCA.TO,Produced capital (constant 2014 US$),GT,Guatemala
+55,GUY,1995,7736316650.16,NW.PCA.TO,Produced capital (constant 2014 US$),GY,Guyana
+56,HND,1995,38805883982.37,NW.PCA.TO,Produced capital (constant 2014 US$),HN,Honduras
+57,HRV,1995,172996511962.38,NW.PCA.TO,Produced capital (constant 2014 US$),HR,Croatia
+58,HTI,1995,29015477693.24,NW.PCA.TO,Produced capital (constant 2014 US$),HT,Haiti
+59,HUN,1995,434290640713.16,NW.PCA.TO,Produced capital (constant 2014 US$),HU,Hungary
+60,IDN,1995,1145345411464.92,NW.PCA.TO,Produced capital (constant 2014 US$),ID,Indonesia
+61,IND,1995,1978891484448.73,NW.PCA.TO,Produced capital (constant 2014 US$),IN,India
+62,IRL,1995,296719679561.07,NW.PCA.TO,Produced capital (constant 2014 US$),IE,Ireland
+63,IRQ,1995,24281312017.32,NW.PCA.TO,Produced capital (constant 2014 US$),IQ,Iraq
+64,ISL,1995,45187451904.26,NW.PCA.TO,Produced capital (constant 2014 US$),IS,Iceland
+65,ITA,1995,7965409655971.11,NW.PCA.TO,Produced capital (constant 2014 US$),IT,Italy
+66,JAM,1995,78077148171.55,NW.PCA.TO,Produced capital (constant 2014 US$),JM,Jamaica
+67,JOR,1995,57670049265.29,NW.PCA.TO,Produced capital (constant 2014 US$),JO,Jordan
+68,JPN,1995,13219784424506.40,NW.PCA.TO,Produced capital (constant 2014 US$),JP,Japan
+69,KAZ,1995,656707113631.62,NW.PCA.TO,Produced capital (constant 2014 US$),KZ,Kazakhstan
+70,KEN,1995,144471348284.82,NW.PCA.TO,Produced capital (constant 2014 US$),KE,Kenya
+71,KGZ,1995,15383566859.49,NW.PCA.TO,Produced capital (constant 2014 US$),KG,Kyrgyz Republic
+72,KHM,1995,9210958434.39,NW.PCA.TO,Produced capital (constant 2014 US$),KH,Cambodia
+73,KOR,1995,1864755612171.55,NW.PCA.TO,Produced capital (constant 2014 US$),KR,"Korea, Rep."
+74,KWT,1995,193819566266.90,NW.PCA.TO,Produced capital (constant 2014 US$),KW,Kuwait
+75,LAC,1995,9553131186153.02,NW.PCA.TO,Produced capital (constant 2014 US$),XJ,Latin America & Caribbean (low and middle income)
+76,LAO,1995,5472987891.42,NW.PCA.TO,Produced capital (constant 2014 US$),LA,Lao PDR
+77,LBN,1995,126377579157.98,NW.PCA.TO,Produced capital (constant 2014 US$),LB,Lebanon
+78,LBR,1995,7201765418.20,NW.PCA.TO,Produced capital (constant 2014 US$),LR,Liberia
+79,LCN,1995,11945073784324.70,NW.PCA.TO,Produced capital (constant 2014 US$),ZJ,Latin America & Caribbean
+80,LIC,1995,604309001776.02,NW.PCA.TO,Produced capital (constant 2014 US$),XM,Low income
+81,LKA,1995,108170449976.18,NW.PCA.TO,Produced capital (constant 2014 US$),LK,Sri Lanka
+82,LMC,1995,8178628263001.47,NW.PCA.TO,Produced capital (constant 2014 US$),XN,Lower middle income
+83,LTU,1995,110551206580.71,NW.PCA.TO,Produced capital (constant 2014 US$),LT,Lithuania
+84,LUX,1995,108689993264.73,NW.PCA.TO,Produced capital (constant 2014 US$),LU,Luxembourg
+85,LVA,1995,102133953661.31,NW.PCA.TO,Produced capital (constant 2014 US$),LV,Latvia
+86,MAR,1995,180322036875.56,NW.PCA.TO,Produced capital (constant 2014 US$),MA,Morocco
+87,MDA,1995,50061864217.84,NW.PCA.TO,Produced capital (constant 2014 US$),MD,Moldova
+88,MDG,1995,19066554865.18,NW.PCA.TO,Produced capital (constant 2014 US$),MG,Madagascar
+89,MDV,1995,1740552720.51,NW.PCA.TO,Produced capital (constant 2014 US$),MV,Maldives
+90,MEA,1995,4111598582393.12,NW.PCA.TO,Produced capital (constant 2014 US$),ZQ,Middle East & North Africa
+91,MEX,1995,2811569026987.24,NW.PCA.TO,Produced capital (constant 2014 US$),MX,Mexico
+92,MKD,1995,23284820689.03,NW.PCA.TO,Produced capital (constant 2014 US$),MK,"Macedonia, FYR"
+93,MLI,1995,17019207042.64,NW.PCA.TO,Produced capital (constant 2014 US$),ML,Mali
+94,MLT,1995,16700820312.89,NW.PCA.TO,Produced capital (constant 2014 US$),MT,Malta
+95,MNA,1995,927760960689.24,NW.PCA.TO,Produced capital (constant 2014 US$),XQ,Middle East & North Africa (low and middle income)
+96,MNG,1995,36760188573.88,NW.PCA.TO,Produced capital (constant 2014 US$),MN,Mongolia
+97,MOZ,1995,9889695592.88,NW.PCA.TO,Produced capital (constant 2014 US$),MZ,Mozambique
+98,MRT,1995,12400582470.33,NW.PCA.TO,Produced capital (constant 2014 US$),MR,Mauritania
+99,MUS,1995,19758375550.57,NW.PCA.TO,Produced capital (constant 2014 US$),MU,Mauritius
+100,MWI,1995,12795640457.83,NW.PCA.TO,Produced capital (constant 2014 US$),MW,Malawi
+101,MYS,1995,459167784446.49,NW.PCA.TO,Produced capital (constant 2014 US$),MY,Malaysia
+102,NAC,1995,42654743113723.20,NW.PCA.TO,Produced capital (constant 2014 US$),XU,North America
+103,NAM,1995,15865100782.01,NW.PCA.TO,Produced capital (constant 2014 US$),NA,Namibia
+104,NER,1995,20404781520.54,NW.PCA.TO,Produced capital (constant 2014 US$),NE,Niger
+105,NGA,1995,468419120343.43,NW.PCA.TO,Produced capital (constant 2014 US$),NG,Nigeria
+106,NIC,1995,27628476260.49,NW.PCA.TO,Produced capital (constant 2014 US$),NI,Nicaragua
+107,NLD,1995,2569242135883.27,NW.PCA.TO,Produced capital (constant 2014 US$),NL,Netherlands
+108,NOC,1995,17151628115863.70,NW.PCA.TO,Produced capital (constant 2014 US$),#N/A,High income: non-OECD
+109,NOR,1995,1408803202026.02,NW.PCA.TO,Produced capital (constant 2014 US$),NO,Norway
+110,NPL,1995,23758168406.18,NW.PCA.TO,Produced capital (constant 2014 US$),NP,Nepal
+111,OEC,1995,118743993667755.00,NW.PCA.TO,Produced capital (constant 2014 US$),#N/A,High income: OECD
+112,OMN,1995,172125322907.72,NW.PCA.TO,Produced capital (constant 2014 US$),OM,Oman
+113,PAK,1995,333333737742.53,NW.PCA.TO,Produced capital (constant 2014 US$),PK,Pakistan
+114,PAN,1995,35221347924.63,NW.PCA.TO,Produced capital (constant 2014 US$),PA,Panama
+115,PER,1995,226836137912.09,NW.PCA.TO,Produced capital (constant 2014 US$),PE,Peru
+116,PHL,1995,462722770922.69,NW.PCA.TO,Produced capital (constant 2014 US$),PH,Philippines
+117,PNG,1995,22549356671.09,NW.PCA.TO,Produced capital (constant 2014 US$),PG,Papua New Guinea
+118,POL,1995,791601838526.02,NW.PCA.TO,Produced capital (constant 2014 US$),PL,Poland
+119,PRT,1995,798522894823.23,NW.PCA.TO,Produced capital (constant 2014 US$),PT,Portugal
+120,PRY,1995,53980258104.72,NW.PCA.TO,Produced capital (constant 2014 US$),PY,Paraguay
+121,PSE,1995,20845104582.85,NW.PCA.TO,Produced capital (constant 2014 US$),PS,West Bank and Gaza
+122,QAT,1995,66133427480.53,NW.PCA.TO,Produced capital (constant 2014 US$),QA,Qatar
+123,ROU,1995,492085776384.88,NW.PCA.TO,Produced capital (constant 2014 US$),RO,Romania
+124,RUS,1995,11155211104145.40,NW.PCA.TO,Produced capital (constant 2014 US$),RU,Russian Federation
+125,RWA,1995,5157202723.40,NW.PCA.TO,Produced capital (constant 2014 US$),RW,Rwanda
+126,SAS,1995,2614776476136.65,NW.PCA.TO,Produced capital (constant 2014 US$),8S,South Asia
+127,SAU,1995,1698386191845.03,NW.PCA.TO,Produced capital (constant 2014 US$),SA,Saudi Arabia
+128,SEN,1995,31658586956.45,NW.PCA.TO,Produced capital (constant 2014 US$),SN,Senegal
+129,SGP,1995,350925510048.48,NW.PCA.TO,Produced capital (constant 2014 US$),SG,Singapore
+130,SLB,1995,1711359609.78,NW.PCA.TO,Produced capital (constant 2014 US$),SB,Solomon Islands
+131,SLE,1995,5833743686.75,NW.PCA.TO,Produced capital (constant 2014 US$),SL,Sierra Leone
+132,SLV,1995,36312435005.84,NW.PCA.TO,Produced capital (constant 2014 US$),SV,El Salvador
+133,SSA,1995,2279650989392.81,NW.PCA.TO,Produced capital (constant 2014 US$),ZF,Sub-Saharan Africa
+134,SUR,1995,15028838381.23,NW.PCA.TO,Produced capital (constant 2014 US$),SR,Suriname
+135,SVK,1995,175783500053.56,NW.PCA.TO,Produced capital (constant 2014 US$),SK,Slovak Republic
+136,SVN,1995,131146115584.44,NW.PCA.TO,Produced capital (constant 2014 US$),SI,Slovenia
+137,SWE,1995,1648182285036.65,NW.PCA.TO,Produced capital (constant 2014 US$),SE,Sweden
+138,SWZ,1995,6938785073.90,NW.PCA.TO,Produced capital (constant 2014 US$),SZ,Swaziland
+139,TCD,1995,19159841263.26,NW.PCA.TO,Produced capital (constant 2014 US$),TD,Chad
+140,TGO,1995,11309583036.49,NW.PCA.TO,Produced capital (constant 2014 US$),TG,Togo
+141,THA,1995,712699137856.86,NW.PCA.TO,Produced capital (constant 2014 US$),TH,Thailand
+142,TJK,1995,68497849729.42,NW.PCA.TO,Produced capital (constant 2014 US$),TJ,Tajikistan
+143,TKM,1995,59905296374.47,NW.PCA.TO,Produced capital (constant 2014 US$),TM,Turkmenistan
+144,TUN,1995,94272896810.62,NW.PCA.TO,Produced capital (constant 2014 US$),TN,Tunisia
+145,TUR,1995,1304978790391.18,NW.PCA.TO,Produced capital (constant 2014 US$),TR,Turkey
+146,TZA,1995,84600492937.31,NW.PCA.TO,Produced capital (constant 2014 US$),TZ,Tanzania
+147,UGA,1995,20491839212.82,NW.PCA.TO,Produced capital (constant 2014 US$),UG,Uganda
+148,UKR,1995,1745786841541.98,NW.PCA.TO,Produced capital (constant 2014 US$),UA,Ukraine
+149,UMC,1995,20102197354898.10,NW.PCA.TO,Produced capital (constant 2014 US$),XT,Upper middle income
+150,URY,1995,102212762296.36,NW.PCA.TO,Produced capital (constant 2014 US$),UY,Uruguay
+151,USA,1995,38628987270356.40,NW.PCA.TO,Produced capital (constant 2014 US$),US,United States
+152,VEN,1995,823627455803.63,NW.PCA.TO,Produced capital (constant 2014 US$),VE,"Venezuela, RB"
+153,VNM,1995,127274713487.26,NW.PCA.TO,Produced capital (constant 2014 US$),VN,Vietnam
+154,WLD,1995,164780756403295.00,NW.PCA.TO,Produced capital (constant 2014 US$),1W,World
+155,YEM,1995,71943826811.07,NW.PCA.TO,Produced capital (constant 2014 US$),YE,"Yemen, Rep."
+156,ZAF,1995,604829872437.89,NW.PCA.TO,Produced capital (constant 2014 US$),ZA,South Africa
+157,ZMB,1995,122848026784.81,NW.PCA.TO,Produced capital (constant 2014 US$),ZM,Zambia
+158,ZWE,1995,15764998906.73,NW.PCA.TO,Produced capital (constant 2014 US$),ZW,Zimbabwe
+159,ALB,2000,32421798960.42,NW.PCA.TO,Produced capital (constant 2014 US$),AL,Albania
+160,ARE,2000,915251448975.93,NW.PCA.TO,Produced capital (constant 2014 US$),AE,United Arab Emirates
+161,ARG,2000,1258359702629.19,NW.PCA.TO,Produced capital (constant 2014 US$),AR,Argentina
+162,ARM,2000,22178440899.10,NW.PCA.TO,Produced capital (constant 2014 US$),AM,Armenia
+163,AUS,2000,4158383270322.31,NW.PCA.TO,Produced capital (constant 2014 US$),AU,Australia
+164,AUT,2000,1601477819206.69,NW.PCA.TO,Produced capital (constant 2014 US$),AT,Austria
+165,AZE,2000,73787060818.02,NW.PCA.TO,Produced capital (constant 2014 US$),AZ,Azerbaijan
+166,BDI,2000,6650639220.42,NW.PCA.TO,Produced capital (constant 2014 US$),BI,Burundi
+167,BEL,2000,1632172228610.20,NW.PCA.TO,Produced capital (constant 2014 US$),BE,Belgium
+168,BFA,2000,17062098623.68,NW.PCA.TO,Produced capital (constant 2014 US$),BF,Burkina Faso
+169,BGD,2000,178884383624.92,NW.PCA.TO,Produced capital (constant 2014 US$),BD,Bangladesh
+170,BGR,2000,56733900333.39,NW.PCA.TO,Produced capital (constant 2014 US$),BG,Bulgaria
+171,BHR,2000,56318783747.10,NW.PCA.TO,Produced capital (constant 2014 US$),BH,Bahrain
+172,BIH,2000,28291404174.38,NW.PCA.TO,Produced capital (constant 2014 US$),BA,Bosnia and Herzegovina
+173,BLR,2000,192156699284.69,NW.PCA.TO,Produced capital (constant 2014 US$),BY,Belarus
+174,BLZ,2000,2959267269.66,NW.PCA.TO,Produced capital (constant 2014 US$),BZ,Belize
+175,BOL,2000,48430020366.28,NW.PCA.TO,Produced capital (constant 2014 US$),BO,Bolivia
+176,BRA,2000,5364407190325.55,NW.PCA.TO,Produced capital (constant 2014 US$),BR,Brazil
+177,BWA,2000,19423022703.66,NW.PCA.TO,Produced capital (constant 2014 US$),BW,Botswana
+178,CAF,2000,6736408163.95,NW.PCA.TO,Produced capital (constant 2014 US$),CF,Central African Republic
+179,CAN,2000,4630365436357.74,NW.PCA.TO,Produced capital (constant 2014 US$),CA,Canada
+180,CHE,2000,2157402971387.38,NW.PCA.TO,Produced capital (constant 2014 US$),CH,Switzerland
+181,CHL,2000,412024863658.09,NW.PCA.TO,Produced capital (constant 2014 US$),CL,Chile
+182,CHN,2000,8899289539039.43,NW.PCA.TO,Produced capital (constant 2014 US$),CN,China
+183,CIV,2000,88373273693.45,NW.PCA.TO,Produced capital (constant 2014 US$),CI,Cote d'Ivoire
+184,CMR,2000,61252596773.92,NW.PCA.TO,Produced capital (constant 2014 US$),CM,Cameroon
+185,COD,2000,72113291243.35,NW.PCA.TO,Produced capital (constant 2014 US$),CD,"Congo, Dem. Rep."
+186,COG,2000,32302489488.33,NW.PCA.TO,Produced capital (constant 2014 US$),CG,"Congo, Rep."
+187,COL,2000,725834935458.88,NW.PCA.TO,Produced capital (constant 2014 US$),CO,Colombia
+188,COM,2000,1918324190.84,NW.PCA.TO,Produced capital (constant 2014 US$),KM,Comoros
+189,CRI,2000,67978775283.26,NW.PCA.TO,Produced capital (constant 2014 US$),CR,Costa Rica
+190,DEU,2000,15175540505884.30,NW.PCA.TO,Produced capital (constant 2014 US$),DE,Germany
+191,DJI,2000,6846538057.98,NW.PCA.TO,Produced capital (constant 2014 US$),DJ,Djibouti
+192,DNK,2000,1231474192071.07,NW.PCA.TO,Produced capital (constant 2014 US$),DK,Denmark
+193,DOM,2000,111631171776.13,NW.PCA.TO,Produced capital (constant 2014 US$),DO,Dominican Republic
+194,EAP,2000,12703699770550.70,NW.PCA.TO,Produced capital (constant 2014 US$),4E,East Asia & Pacific (low and middle income)
+195,EAS,2000,36198802174992.10,NW.PCA.TO,Produced capital (constant 2014 US$),Z4,East Asia & Pacific
+196,ECA,2000,4338334972407.45,NW.PCA.TO,Produced capital (constant 2014 US$),7E,Europe & Central Asia (low and middle income)
+197,ECS,2000,77707810711852.50,NW.PCA.TO,Produced capital (constant 2014 US$),Z7,Europe & Central Asia
+198,ECU,2000,204055880859.09,NW.PCA.TO,Produced capital (constant 2014 US$),EC,Ecuador
+199,EGY,2000,298134208322.34,NW.PCA.TO,Produced capital (constant 2014 US$),EG,"Egypt, Arab Rep."
+200,ESP,2000,4666902954451.40,NW.PCA.TO,Produced capital (constant 2014 US$),ES,Spain
+201,EST,2000,80514322393.38,NW.PCA.TO,Produced capital (constant 2014 US$),EE,Estonia
+202,ETH,2000,90683810308.76,NW.PCA.TO,Produced capital (constant 2014 US$),ET,Ethiopia
+203,FIN,2000,975302683963.72,NW.PCA.TO,Produced capital (constant 2014 US$),FI,Finland
+204,FRA,2000,9690841697564.35,NW.PCA.TO,Produced capital (constant 2014 US$),FR,France
+205,GAB,2000,39503614893.75,NW.PCA.TO,Produced capital (constant 2014 US$),GA,Gabon
+206,GBR,2000,8311218577346.23,NW.PCA.TO,Produced capital (constant 2014 US$),GB,United Kingdom
+207,GEO,2000,59266447635.85,NW.PCA.TO,Produced capital (constant 2014 US$),GE,Georgia
+208,GHA,2000,67775408131.15,NW.PCA.TO,Produced capital (constant 2014 US$),GH,Ghana
+209,GIN,2000,12523355527.15,NW.PCA.TO,Produced capital (constant 2014 US$),GN,Guinea
+210,GMB,2000,1387010598.88,NW.PCA.TO,Produced capital (constant 2014 US$),GM,"Gambia, The"
+211,GRC,2000,1394640236487.62,NW.PCA.TO,Produced capital (constant 2014 US$),GR,Greece
+212,GTM,2000,72954534527.10,NW.PCA.TO,Produced capital (constant 2014 US$),GT,Guatemala
+213,GUY,2000,8013948828.55,NW.PCA.TO,Produced capital (constant 2014 US$),GY,Guyana
+214,HND,2000,38411821700.25,NW.PCA.TO,Produced capital (constant 2014 US$),HN,Honduras
+215,HRV,2000,198148077259.38,NW.PCA.TO,Produced capital (constant 2014 US$),HR,Croatia
+216,HTI,2000,32112648305.36,NW.PCA.TO,Produced capital (constant 2014 US$),HT,Haiti
+217,HUN,2000,485349511875.82,NW.PCA.TO,Produced capital (constant 2014 US$),HU,Hungary
+218,IDN,2000,1594535951618.14,NW.PCA.TO,Produced capital (constant 2014 US$),ID,Indonesia
+219,IND,2000,2465393155093.40,NW.PCA.TO,Produced capital (constant 2014 US$),IN,India
+220,IRL,2000,509749144440.15,NW.PCA.TO,Produced capital (constant 2014 US$),IE,Ireland
+221,IRQ,2000,33857162567.29,NW.PCA.TO,Produced capital (constant 2014 US$),IQ,Iraq
+222,ISL,2000,51770757562.11,NW.PCA.TO,Produced capital (constant 2014 US$),IS,Iceland
+223,ITA,2000,8786522212193.89,NW.PCA.TO,Produced capital (constant 2014 US$),IT,Italy
+224,JAM,2000,72017298696.57,NW.PCA.TO,Produced capital (constant 2014 US$),JM,Jamaica
+225,JOR,2000,69929383307.63,NW.PCA.TO,Produced capital (constant 2014 US$),JO,Jordan
+226,JPN,2000,16075016550505.00,NW.PCA.TO,Produced capital (constant 2014 US$),JP,Japan
+227,KAZ,2000,629400695485.99,NW.PCA.TO,Produced capital (constant 2014 US$),KZ,Kazakhstan
+228,KEN,2000,96105690693.06,NW.PCA.TO,Produced capital (constant 2014 US$),KE,Kenya
+229,KGZ,2000,21090772055.58,NW.PCA.TO,Produced capital (constant 2014 US$),KG,Kyrgyz Republic
+230,KHM,2000,14019265465.09,NW.PCA.TO,Produced capital (constant 2014 US$),KH,Cambodia
+231,KOR,2000,2797431419596.86,NW.PCA.TO,Produced capital (constant 2014 US$),KR,"Korea, Rep."
+232,KWT,2000,211528754837.44,NW.PCA.TO,Produced capital (constant 2014 US$),KW,Kuwait
+233,LAC,2000,10403034335908.90,NW.PCA.TO,Produced capital (constant 2014 US$),XJ,Latin America & Caribbean (low and middle income)
+234,LAO,2000,7638253757.21,NW.PCA.TO,Produced capital (constant 2014 US$),LA,Lao PDR
+235,LBN,2000,118048990681.01,NW.PCA.TO,Produced capital (constant 2014 US$),LB,Lebanon
+236,LBR,2000,6624947168.60,NW.PCA.TO,Produced capital (constant 2014 US$),LR,Liberia
+237,LCN,2000,13066160135811.80,NW.PCA.TO,Produced capital (constant 2014 US$),ZJ,Latin America & Caribbean
+238,LIC,2000,618763314492.99,NW.PCA.TO,Produced capital (constant 2014 US$),XM,Low income
+239,LKA,2000,150698055377.12,NW.PCA.TO,Produced capital (constant 2014 US$),LK,Sri Lanka
+240,LMC,2000,8807680643799.79,NW.PCA.TO,Produced capital (constant 2014 US$),XN,Lower middle income
+241,LTU,2000,130379207404.20,NW.PCA.TO,Produced capital (constant 2014 US$),LT,Lithuania
+242,LUX,2000,131887576972.52,NW.PCA.TO,Produced capital (constant 2014 US$),LU,Luxembourg
+243,LVA,2000,112656653608.97,NW.PCA.TO,Produced capital (constant 2014 US$),LV,Latvia
+244,MAR,2000,223748794512.00,NW.PCA.TO,Produced capital (constant 2014 US$),MA,Morocco
+245,MDA,2000,43755928525.90,NW.PCA.TO,Produced capital (constant 2014 US$),MD,Moldova
+246,MDG,2000,22042235877.29,NW.PCA.TO,Produced capital (constant 2014 US$),MG,Madagascar
+247,MDV,2000,2282213034.34,NW.PCA.TO,Produced capital (constant 2014 US$),MV,Maldives
+248,MEA,2000,3850075156228.21,NW.PCA.TO,Produced capital (constant 2014 US$),ZQ,Middle East & North Africa
+249,MEX,2000,3143491150971.57,NW.PCA.TO,Produced capital (constant 2014 US$),MX,Mexico
+250,MKD,2000,26014177377.62,NW.PCA.TO,Produced capital (constant 2014 US$),MK,"Macedonia, FYR"
+251,MLI,2000,19702746054.61,NW.PCA.TO,Produced capital (constant 2014 US$),ML,Mali
+252,MLT,2000,19039861417.52,NW.PCA.TO,Produced capital (constant 2014 US$),MT,Malta
+253,MNA,2000,978071135915.84,NW.PCA.TO,Produced capital (constant 2014 US$),XQ,Middle East & North Africa (low and middle income)
+254,MNG,2000,30281315097.27,NW.PCA.TO,Produced capital (constant 2014 US$),MN,Mongolia
+255,MOZ,2000,11702486202.00,NW.PCA.TO,Produced capital (constant 2014 US$),MZ,Mozambique
+256,MRT,2000,10243146789.10,NW.PCA.TO,Produced capital (constant 2014 US$),MR,Mauritania
+257,MUS,2000,22568955965.64,NW.PCA.TO,Produced capital (constant 2014 US$),MU,Mauritius
+258,MWI,2000,14259478908.87,NW.PCA.TO,Produced capital (constant 2014 US$),MW,Malawi
+259,MYS,2000,558129435237.69,NW.PCA.TO,Produced capital (constant 2014 US$),MY,Malaysia
+260,NAC,2000,51650006347539.40,NW.PCA.TO,Produced capital (constant 2014 US$),XU,North America
+261,NAM,2000,15873523228.36,NW.PCA.TO,Produced capital (constant 2014 US$),NA,Namibia
+262,NER,2000,25476687842.00,NW.PCA.TO,Produced capital (constant 2014 US$),NE,Niger
+263,NGA,2000,469411131545.41,NW.PCA.TO,Produced capital (constant 2014 US$),NG,Nigeria
+264,NIC,2000,34730133067.48,NW.PCA.TO,Produced capital (constant 2014 US$),NI,Nicaragua
+265,NLD,2000,3122165462138.96,NW.PCA.TO,Produced capital (constant 2014 US$),NL,Netherlands
+266,NOC,2000,13179686671497.20,NW.PCA.TO,Produced capital (constant 2014 US$),#N/A,High income: non-OECD
+267,NOR,2000,1453906642494.44,NW.PCA.TO,Produced capital (constant 2014 US$),NO,Norway
+268,NPL,2000,33431970054.94,NW.PCA.TO,Produced capital (constant 2014 US$),NP,Nepal
+269,OEC,2000,140870027640144.00,NW.PCA.TO,Produced capital (constant 2014 US$),#N/A,High income: OECD
+270,OMN,2000,150121675645.86,NW.PCA.TO,Produced capital (constant 2014 US$),OM,Oman
+271,PAK,2000,315493045648.75,NW.PCA.TO,Produced capital (constant 2014 US$),PK,Pakistan
+272,PAN,2000,49413813926.32,NW.PCA.TO,Produced capital (constant 2014 US$),PA,Panama
+273,PER,2000,299656702369.99,NW.PCA.TO,Produced capital (constant 2014 US$),PE,Peru
+274,PHL,2000,452248806468.12,NW.PCA.TO,Produced capital (constant 2014 US$),PH,Philippines
+275,PNG,2000,24877712555.37,NW.PCA.TO,Produced capital (constant 2014 US$),PG,Papua New Guinea
+276,POL,2000,1061334355369.08,NW.PCA.TO,Produced capital (constant 2014 US$),PL,Poland
+277,PRT,2000,975592180257.76,NW.PCA.TO,Produced capital (constant 2014 US$),PT,Portugal
+278,PRY,2000,63735344012.17,NW.PCA.TO,Produced capital (constant 2014 US$),PY,Paraguay
+279,PSE,2000,35237580667.50,NW.PCA.TO,Produced capital (constant 2014 US$),PS,West Bank and Gaza
+280,QAT,2000,110055516975.55,NW.PCA.TO,Produced capital (constant 2014 US$),QA,Qatar
+281,ROU,2000,434469367619.66,NW.PCA.TO,Produced capital (constant 2014 US$),RO,Romania
+282,RUS,2000,7151126612650.31,NW.PCA.TO,Produced capital (constant 2014 US$),RU,Russian Federation
+283,RWA,2000,5396941904.26,NW.PCA.TO,Produced capital (constant 2014 US$),RW,Rwanda
+284,SAS,2000,3146182822833.47,NW.PCA.TO,Produced capital (constant 2014 US$),8S,South Asia
+285,SAU,2000,1409687978712.96,NW.PCA.TO,Produced capital (constant 2014 US$),SA,Saudi Arabia
+286,SEN,2000,34775596286.80,NW.PCA.TO,Produced capital (constant 2014 US$),SN,Senegal
+287,SGP,2000,464271164017.13,NW.PCA.TO,Produced capital (constant 2014 US$),SG,Singapore
+288,SLB,2000,1446046141.54,NW.PCA.TO,Produced capital (constant 2014 US$),SB,Solomon Islands
+289,SLE,2000,7969152754.09,NW.PCA.TO,Produced capital (constant 2014 US$),SL,Sierra Leone
+290,SLV,2000,44136956621.17,NW.PCA.TO,Produced capital (constant 2014 US$),SV,El Salvador
+291,SSA,2000,2276753448943.01,NW.PCA.TO,Produced capital (constant 2014 US$),ZF,Sub-Saharan Africa
+292,SUR,2000,19062741543.53,NW.PCA.TO,Produced capital (constant 2014 US$),SR,Suriname
+293,SVK,2000,196319016193.25,NW.PCA.TO,Produced capital (constant 2014 US$),SK,Slovak Republic
+294,SVN,2000,162030947306.64,NW.PCA.TO,Produced capital (constant 2014 US$),SI,Slovenia
+295,SWE,2000,1923049192351.13,NW.PCA.TO,Produced capital (constant 2014 US$),SE,Sweden
+296,SWZ,2000,14944772427.95,NW.PCA.TO,Produced capital (constant 2014 US$),SZ,Swaziland
+297,TCD,2000,20582447059.57,NW.PCA.TO,Produced capital (constant 2014 US$),TD,Chad
+298,TGO,2000,12944077492.54,NW.PCA.TO,Produced capital (constant 2014 US$),TG,Togo
+299,THA,2000,920315018530.45,NW.PCA.TO,Produced capital (constant 2014 US$),TH,Thailand
+300,TJK,2000,89511371503.42,NW.PCA.TO,Produced capital (constant 2014 US$),TJ,Tajikistan
+301,TKM,2000,140136620155.17,NW.PCA.TO,Produced capital (constant 2014 US$),TM,Turkmenistan
+302,TUN,2000,106862240652.80,NW.PCA.TO,Produced capital (constant 2014 US$),TN,Tunisia
+303,TUR,2000,1154618107444.23,NW.PCA.TO,Produced capital (constant 2014 US$),TR,Turkey
+304,TZA,2000,112412057929.48,NW.PCA.TO,Produced capital (constant 2014 US$),TZ,Tanzania
+305,UGA,2000,33361511196.22,NW.PCA.TO,Produced capital (constant 2014 US$),UG,Uganda
+306,UKR,2000,1334502180134.00,NW.PCA.TO,Produced capital (constant 2014 US$),UA,Ukraine
+307,UMC,2000,24419632528266.60,NW.PCA.TO,Produced capital (constant 2014 US$),XT,Upper middle income
+308,URY,2000,113133330421.66,NW.PCA.TO,Produced capital (constant 2014 US$),UY,Uruguay
+309,USA,2000,47019640911181.60,NW.PCA.TO,Produced capital (constant 2014 US$),US,United States
+310,VEN,2000,879607903194.04,NW.PCA.TO,Produced capital (constant 2014 US$),VE,"Venezuela, RB"
+311,VNM,2000,200918426640.42,NW.PCA.TO,Produced capital (constant 2014 US$),VN,Vietnam
+312,WLD,2000,187895790798200.00,NW.PCA.TO,Produced capital (constant 2014 US$),1W,World
+313,YEM,2000,85406237147.28,NW.PCA.TO,Produced capital (constant 2014 US$),YE,"Yemen, Rep."
+314,ZAF,2000,690994009181.02,NW.PCA.TO,Produced capital (constant 2014 US$),ZA,South Africa
+315,ZMB,2000,74006786473.81,NW.PCA.TO,Produced capital (constant 2014 US$),ZM,Zambia
+316,ZWE,2000,37649722401.04,NW.PCA.TO,Produced capital (constant 2014 US$),ZW,Zimbabwe
+317,ALB,2005,41827403981.07,NW.PCA.TO,Produced capital (constant 2014 US$),AL,Albania
+318,ARE,2005,841625085099.08,NW.PCA.TO,Produced capital (constant 2014 US$),AE,United Arab Emirates
+319,ARG,2005,1441672768259.97,NW.PCA.TO,Produced capital (constant 2014 US$),AR,Argentina
+320,ARM,2005,28709071550.98,NW.PCA.TO,Produced capital (constant 2014 US$),AM,Armenia
+321,AUS,2005,5747159097588.17,NW.PCA.TO,Produced capital (constant 2014 US$),AU,Australia
+322,AUT,2005,1748909923504.00,NW.PCA.TO,Produced capital (constant 2014 US$),AT,Austria
+323,AZE,2005,104929440940.37,NW.PCA.TO,Produced capital (constant 2014 US$),AZ,Azerbaijan
+324,BDI,2005,7749234656.33,NW.PCA.TO,Produced capital (constant 2014 US$),BI,Burundi
+325,BEL,2005,1839883731417.18,NW.PCA.TO,Produced capital (constant 2014 US$),BE,Belgium
+326,BFA,2005,18458944515.14,NW.PCA.TO,Produced capital (constant 2014 US$),BF,Burkina Faso
+327,BGD,2005,224194122343.80,NW.PCA.TO,Produced capital (constant 2014 US$),BD,Bangladesh
+328,BGR,2005,94673096897.93,NW.PCA.TO,Produced capital (constant 2014 US$),BG,Bulgaria
+329,BHR,2005,78065228017.71,NW.PCA.TO,Produced capital (constant 2014 US$),BH,Bahrain
+330,BIH,2005,39634505832.39,NW.PCA.TO,Produced capital (constant 2014 US$),BA,Bosnia and Herzegovina
+331,BLR,2005,216407123426.64,NW.PCA.TO,Produced capital (constant 2014 US$),BY,Belarus
+332,BLZ,2005,3797117239.90,NW.PCA.TO,Produced capital (constant 2014 US$),BZ,Belize
+333,BOL,2005,50347254015.72,NW.PCA.TO,Produced capital (constant 2014 US$),BO,Bolivia
+334,BRA,2005,6296812926053.14,NW.PCA.TO,Produced capital (constant 2014 US$),BR,Brazil
+335,BWA,2005,24848761477.77,NW.PCA.TO,Produced capital (constant 2014 US$),BW,Botswana
+336,CAF,2005,7565415739.96,NW.PCA.TO,Produced capital (constant 2014 US$),CF,Central African Republic
+337,CAN,2005,5587882278675.81,NW.PCA.TO,Produced capital (constant 2014 US$),CA,Canada
+338,CHE,2005,2338377919762.03,NW.PCA.TO,Produced capital (constant 2014 US$),CH,Switzerland
+339,CHL,2005,483149245540.07,NW.PCA.TO,Produced capital (constant 2014 US$),CL,Chile
+340,CHN,2005,14786718557367.90,NW.PCA.TO,Produced capital (constant 2014 US$),CN,China
+341,CIV,2005,81338946467.04,NW.PCA.TO,Produced capital (constant 2014 US$),CI,Cote d'Ivoire
+342,CMR,2005,68608227559.71,NW.PCA.TO,Produced capital (constant 2014 US$),CM,Cameroon
+343,COD,2005,92031353343.65,NW.PCA.TO,Produced capital (constant 2014 US$),CD,"Congo, Dem. Rep."
+344,COG,2005,38782616237.69,NW.PCA.TO,Produced capital (constant 2014 US$),CG,"Congo, Rep."
+345,COL,2005,829767947370.83,NW.PCA.TO,Produced capital (constant 2014 US$),CO,Colombia
+346,COM,2005,2035916452.84,NW.PCA.TO,Produced capital (constant 2014 US$),KM,Comoros
+347,CRI,2005,81992898769.37,NW.PCA.TO,Produced capital (constant 2014 US$),CR,Costa Rica
+348,DEU,2005,15560081828553.30,NW.PCA.TO,Produced capital (constant 2014 US$),DE,Germany
+349,DJI,2005,3456478500.27,NW.PCA.TO,Produced capital (constant 2014 US$),DJ,Djibouti
+350,DNK,2005,1374816794418.17,NW.PCA.TO,Produced capital (constant 2014 US$),DK,Denmark
+351,DOM,2005,164770247374.97,NW.PCA.TO,Produced capital (constant 2014 US$),DO,Dominican Republic
+352,EAP,2005,19481009542011.90,NW.PCA.TO,Produced capital (constant 2014 US$),4E,East Asia & Pacific (low and middle income)
+353,EAS,2005,48097551226310.90,NW.PCA.TO,Produced capital (constant 2014 US$),Z4,East Asia & Pacific
+354,ECA,2005,4901073990361.77,NW.PCA.TO,Produced capital (constant 2014 US$),7E,Europe & Central Asia (low and middle income)
+355,ECS,2005,87476040685010.30,NW.PCA.TO,Produced capital (constant 2014 US$),Z7,Europe & Central Asia
+356,ECU,2005,209595651476.03,NW.PCA.TO,Produced capital (constant 2014 US$),EC,Ecuador
+357,EGY,2005,406219926935.08,NW.PCA.TO,Produced capital (constant 2014 US$),EG,"Egypt, Arab Rep."
+358,ESP,2005,6205498500636.79,NW.PCA.TO,Produced capital (constant 2014 US$),ES,Spain
+359,EST,2005,93741412761.07,NW.PCA.TO,Produced capital (constant 2014 US$),EE,Estonia
+360,ETH,2005,97742989282.10,NW.PCA.TO,Produced capital (constant 2014 US$),ET,Ethiopia
+361,FIN,2005,1141484615420.39,NW.PCA.TO,Produced capital (constant 2014 US$),FI,Finland
+362,FRA,2005,11419357639323.10,NW.PCA.TO,Produced capital (constant 2014 US$),FR,France
+363,GAB,2005,42906956449.88,NW.PCA.TO,Produced capital (constant 2014 US$),GA,Gabon
+364,GBR,2005,10361601697035.90,NW.PCA.TO,Produced capital (constant 2014 US$),GB,United Kingdom
+365,GEO,2005,64703475015.02,NW.PCA.TO,Produced capital (constant 2014 US$),GE,Georgia
+366,GHA,2005,107566695068.87,NW.PCA.TO,Produced capital (constant 2014 US$),GH,Ghana
+367,GIN,2005,12848076339.56,NW.PCA.TO,Produced capital (constant 2014 US$),GN,Guinea
+368,GMB,2005,2197024078.01,NW.PCA.TO,Produced capital (constant 2014 US$),GM,"Gambia, The"
+369,GRC,2005,1512605634297.11,NW.PCA.TO,Produced capital (constant 2014 US$),GR,Greece
+370,GTM,2005,124229409651.72,NW.PCA.TO,Produced capital (constant 2014 US$),GT,Guatemala
+371,GUY,2005,7959214471.19,NW.PCA.TO,Produced capital (constant 2014 US$),GY,Guyana
+372,HND,2005,46724903431.18,NW.PCA.TO,Produced capital (constant 2014 US$),HN,Honduras
+373,HRV,2005,228422417221.67,NW.PCA.TO,Produced capital (constant 2014 US$),HR,Croatia
+374,HTI,2005,41157221252.83,NW.PCA.TO,Produced capital (constant 2014 US$),HT,Haiti
+375,HUN,2005,556841383218.89,NW.PCA.TO,Produced capital (constant 2014 US$),HU,Hungary
+376,IDN,2005,2079689267993.53,NW.PCA.TO,Produced capital (constant 2014 US$),ID,Indonesia
+377,IND,2005,3402488203949.50,NW.PCA.TO,Produced capital (constant 2014 US$),IN,India
+378,IRL,2005,811500006866.35,NW.PCA.TO,Produced capital (constant 2014 US$),IE,Ireland
+379,IRQ,2005,216651601350.24,NW.PCA.TO,Produced capital (constant 2014 US$),IQ,Iraq
+380,ISL,2005,64499636664.90,NW.PCA.TO,Produced capital (constant 2014 US$),IS,Iceland
+381,ITA,2005,9864868342493.25,NW.PCA.TO,Produced capital (constant 2014 US$),IT,Italy
+382,JAM,2005,79179225547.54,NW.PCA.TO,Produced capital (constant 2014 US$),JM,Jamaica
+383,JOR,2005,91954120114.18,NW.PCA.TO,Produced capital (constant 2014 US$),JO,Jordan
+384,JPN,2005,18365178015985.40,NW.PCA.TO,Produced capital (constant 2014 US$),JP,Japan
+385,KAZ,2005,764633522464.56,NW.PCA.TO,Produced capital (constant 2014 US$),KZ,Kazakhstan
+386,KEN,2005,125388945388.61,NW.PCA.TO,Produced capital (constant 2014 US$),KE,Kenya
+387,KGZ,2005,24035191104.98,NW.PCA.TO,Produced capital (constant 2014 US$),KG,Kyrgyz Republic
+388,KHM,2005,18532970113.72,NW.PCA.TO,Produced capital (constant 2014 US$),KH,Cambodia
+389,KOR,2005,3943514546169.55,NW.PCA.TO,Produced capital (constant 2014 US$),KR,"Korea, Rep."
+390,KWT,2005,214421269413.86,NW.PCA.TO,Produced capital (constant 2014 US$),KW,Kuwait
+391,LAC,2005,12258252844884.30,NW.PCA.TO,Produced capital (constant 2014 US$),XJ,Latin America & Caribbean (low and middle income)
+392,LAO,2005,18748414875.29,NW.PCA.TO,Produced capital (constant 2014 US$),LA,Lao PDR
+393,LBN,2005,132655403785.27,NW.PCA.TO,Produced capital (constant 2014 US$),LB,Lebanon
+394,LBR,2005,4780110546.41,NW.PCA.TO,Produced capital (constant 2014 US$),LR,Liberia
+395,LCN,2005,15176616568215.60,NW.PCA.TO,Produced capital (constant 2014 US$),ZJ,Latin America & Caribbean
+396,LIC,2005,659985545744.13,NW.PCA.TO,Produced capital (constant 2014 US$),XM,Low income
+397,LKA,2005,157350670639.87,NW.PCA.TO,Produced capital (constant 2014 US$),LK,Sri Lanka
+398,LMC,2005,11884872338437.00,NW.PCA.TO,Produced capital (constant 2014 US$),XN,Lower middle income
+399,LTU,2005,155657562690.79,NW.PCA.TO,Produced capital (constant 2014 US$),LT,Lithuania
+400,LUX,2005,167047054615.40,NW.PCA.TO,Produced capital (constant 2014 US$),LU,Luxembourg
+401,LVA,2005,170785039413.95,NW.PCA.TO,Produced capital (constant 2014 US$),LV,Latvia
+402,MAR,2005,287731774043.93,NW.PCA.TO,Produced capital (constant 2014 US$),MA,Morocco
+403,MDA,2005,52521362617.11,NW.PCA.TO,Produced capital (constant 2014 US$),MD,Moldova
+404,MDG,2005,26851496860.09,NW.PCA.TO,Produced capital (constant 2014 US$),MG,Madagascar
+405,MDV,2005,3611417131.21,NW.PCA.TO,Produced capital (constant 2014 US$),MV,Maldives
+406,MEA,2005,4104916530204.70,NW.PCA.TO,Produced capital (constant 2014 US$),ZQ,Middle East & North Africa
+407,MEX,2005,3721189582022.01,NW.PCA.TO,Produced capital (constant 2014 US$),MX,Mexico
+408,MKD,2005,29145267142.44,NW.PCA.TO,Produced capital (constant 2014 US$),MK,"Macedonia, FYR"
+409,MLI,2005,18033240506.91,NW.PCA.TO,Produced capital (constant 2014 US$),ML,Mali
+410,MLT,2005,23140056343.75,NW.PCA.TO,Produced capital (constant 2014 US$),MT,Malta
+411,MNA,2005,1390832851116.17,NW.PCA.TO,Produced capital (constant 2014 US$),XQ,Middle East & North Africa (low and middle income)
+412,MNG,2005,45956467900.62,NW.PCA.TO,Produced capital (constant 2014 US$),MN,Mongolia
+413,MOZ,2005,15279307523.10,NW.PCA.TO,Produced capital (constant 2014 US$),MZ,Mozambique
+414,MRT,2005,13296374116.70,NW.PCA.TO,Produced capital (constant 2014 US$),MR,Mauritania
+415,MUS,2005,26175709521.04,NW.PCA.TO,Produced capital (constant 2014 US$),MU,Mauritius
+416,MWI,2005,9074148923.62,NW.PCA.TO,Produced capital (constant 2014 US$),MW,Malawi
+417,MYS,2005,573329060124.79,NW.PCA.TO,Produced capital (constant 2014 US$),MY,Malaysia
+418,NAC,2005,64434158114101.40,NW.PCA.TO,Produced capital (constant 2014 US$),XU,North America
+419,NAM,2005,20063173976.73,NW.PCA.TO,Produced capital (constant 2014 US$),NA,Namibia
+420,NER,2005,27559628450.52,NW.PCA.TO,Produced capital (constant 2014 US$),NE,Niger
+421,NGA,2005,1404863562010.73,NW.PCA.TO,Produced capital (constant 2014 US$),NG,Nigeria
+422,NIC,2005,42147757064.82,NW.PCA.TO,Produced capital (constant 2014 US$),NI,Nicaragua
+423,NLD,2005,3594807173222.17,NW.PCA.TO,Produced capital (constant 2014 US$),NL,Netherlands
+424,NOC,2005,13073597173589.30,NW.PCA.TO,Produced capital (constant 2014 US$),#N/A,High income: non-OECD
+425,NOR,2005,1639466921606.75,NW.PCA.TO,Produced capital (constant 2014 US$),NO,Norway
+426,NPL,2005,42914502321.96,NW.PCA.TO,Produced capital (constant 2014 US$),NP,Nepal
+427,OEC,2005,168184516721879.00,NW.PCA.TO,Produced capital (constant 2014 US$),#N/A,High income: OECD
+428,OMN,2005,130399074058.91,NW.PCA.TO,Produced capital (constant 2014 US$),OM,Oman
+429,PAK,2005,442879768447.14,NW.PCA.TO,Produced capital (constant 2014 US$),PK,Pakistan
+430,PAN,2005,55389745308.85,NW.PCA.TO,Produced capital (constant 2014 US$),PA,Panama
+431,PER,2005,353148588952.28,NW.PCA.TO,Produced capital (constant 2014 US$),PE,Peru
+432,PHL,2005,566364897305.01,NW.PCA.TO,Produced capital (constant 2014 US$),PH,Philippines
+433,PNG,2005,26523284826.03,NW.PCA.TO,Produced capital (constant 2014 US$),PG,Papua New Guinea
+434,POL,2005,1136878433428.33,NW.PCA.TO,Produced capital (constant 2014 US$),PL,Poland
+435,PRT,2005,1120594854578.89,NW.PCA.TO,Produced capital (constant 2014 US$),PT,Portugal
+436,PRY,2005,75943322950.77,NW.PCA.TO,Produced capital (constant 2014 US$),PY,Paraguay
+437,PSE,2005,44361294883.00,NW.PCA.TO,Produced capital (constant 2014 US$),PS,West Bank and Gaza
+438,QAT,2005,128649848591.18,NW.PCA.TO,Produced capital (constant 2014 US$),QA,Qatar
+439,ROU,2005,634421801323.63,NW.PCA.TO,Produced capital (constant 2014 US$),RO,Romania
+440,RUS,2005,6808743972827.23,NW.PCA.TO,Produced capital (constant 2014 US$),RU,Russian Federation
+441,RWA,2005,7692828159.04,NW.PCA.TO,Produced capital (constant 2014 US$),RW,Rwanda
+442,SAS,2005,4273438684833.48,NW.PCA.TO,Produced capital (constant 2014 US$),8S,South Asia
+443,SAU,2005,1297783117564.05,NW.PCA.TO,Produced capital (constant 2014 US$),SA,Saudi Arabia
+444,SEN,2005,41563877876.30,NW.PCA.TO,Produced capital (constant 2014 US$),SN,Senegal
+445,SGP,2005,560690024555.86,NW.PCA.TO,Produced capital (constant 2014 US$),SG,Singapore
+446,SLB,2005,1282135507.03,NW.PCA.TO,Produced capital (constant 2014 US$),SB,Solomon Islands
+447,SLE,2005,5966505543.77,NW.PCA.TO,Produced capital (constant 2014 US$),SL,Sierra Leone
+448,SLV,2005,51735578164.59,NW.PCA.TO,Produced capital (constant 2014 US$),SV,El Salvador
+449,SSA,2005,3359081022342.93,NW.PCA.TO,Produced capital (constant 2014 US$),ZF,Sub-Saharan Africa
+450,SUR,2005,22364253766.58,NW.PCA.TO,Produced capital (constant 2014 US$),SR,Suriname
+451,SVK,2005,238008824036.54,NW.PCA.TO,Produced capital (constant 2014 US$),SK,Slovak Republic
+452,SVN,2005,200081972670.74,NW.PCA.TO,Produced capital (constant 2014 US$),SI,Slovenia
+453,SWE,2005,2220403401963.60,NW.PCA.TO,Produced capital (constant 2014 US$),SE,Sweden
+454,SWZ,2005,15718151195.77,NW.PCA.TO,Produced capital (constant 2014 US$),SZ,Swaziland
+455,TCD,2005,17876974499.00,NW.PCA.TO,Produced capital (constant 2014 US$),TD,Chad
+456,TGO,2005,12975376264.84,NW.PCA.TO,Produced capital (constant 2014 US$),TG,Togo
+457,THA,2005,1032726928948.04,NW.PCA.TO,Produced capital (constant 2014 US$),TH,Thailand
+458,TJK,2005,96683766833.35,NW.PCA.TO,Produced capital (constant 2014 US$),TJ,Tajikistan
+459,TKM,2005,157594647843.94,NW.PCA.TO,Produced capital (constant 2014 US$),TM,Turkmenistan
+460,TUN,2005,121118867377.72,NW.PCA.TO,Produced capital (constant 2014 US$),TN,Tunisia
+461,TUR,2005,1311010102919.82,NW.PCA.TO,Produced capital (constant 2014 US$),TR,Turkey
+462,TZA,2005,108368823513.71,NW.PCA.TO,Produced capital (constant 2014 US$),TZ,Tanzania
+463,UGA,2005,49838949130.71,NW.PCA.TO,Produced capital (constant 2014 US$),UG,Uganda
+464,UKR,2005,1240144210467.52,NW.PCA.TO,Produced capital (constant 2014 US$),UA,Ukraine
+465,UMC,2005,33118831051369.40,NW.PCA.TO,Produced capital (constant 2014 US$),XT,Upper middle income
+466,URY,2005,135924431889.53,NW.PCA.TO,Produced capital (constant 2014 US$),UY,Uruguay
+467,USA,2005,58846275835425.60,NW.PCA.TO,Produced capital (constant 2014 US$),US,United States
+468,VEN,2005,857617277641.77,NW.PCA.TO,Produced capital (constant 2014 US$),VE,"Venezuela, RB"
+469,VNM,2005,331137557049.89,NW.PCA.TO,Produced capital (constant 2014 US$),VN,Vietnam
+470,WLD,2005,226921802831019.00,NW.PCA.TO,Produced capital (constant 2014 US$),1W,World
+471,YEM,2005,86683384126.48,NW.PCA.TO,Produced capital (constant 2014 US$),YE,"Yemen, Rep."
+472,ZAF,2005,711885606238.93,NW.PCA.TO,Produced capital (constant 2014 US$),ZA,South Africa
+473,ZMB,2005,78692566701.54,NW.PCA.TO,Produced capital (constant 2014 US$),ZM,Zambia
+474,ZWE,2005,12454507726.33,NW.PCA.TO,Produced capital (constant 2014 US$),ZW,Zimbabwe
+475,ALB,2010,51156323743.13,NW.PCA.TO,Produced capital (constant 2014 US$),AL,Albania
+476,ARE,2010,1061342697602.59,NW.PCA.TO,Produced capital (constant 2014 US$),AE,United Arab Emirates
+477,ARG,2010,1554149107810.42,NW.PCA.TO,Produced capital (constant 2014 US$),AR,Argentina
+478,ARM,2010,47181741250.29,NW.PCA.TO,Produced capital (constant 2014 US$),AM,Armenia
+479,AUS,2010,6859493851754.81,NW.PCA.TO,Produced capital (constant 2014 US$),AU,Australia
+480,AUT,2010,2034088638690.70,NW.PCA.TO,Produced capital (constant 2014 US$),AT,Austria
+481,AZE,2010,98623154327.16,NW.PCA.TO,Produced capital (constant 2014 US$),AZ,Azerbaijan
+482,BDI,2010,5633404483.51,NW.PCA.TO,Produced capital (constant 2014 US$),BI,Burundi
+483,BEL,2010,2197894029640.33,NW.PCA.TO,Produced capital (constant 2014 US$),BE,Belgium
+484,BFA,2010,23699176748.76,NW.PCA.TO,Produced capital (constant 2014 US$),BF,Burkina Faso
+485,BGD,2010,384144430307.26,NW.PCA.TO,Produced capital (constant 2014 US$),BD,Bangladesh
+486,BGR,2010,146601970332.19,NW.PCA.TO,Produced capital (constant 2014 US$),BG,Bulgaria
+487,BHR,2010,95903678726.09,NW.PCA.TO,Produced capital (constant 2014 US$),BH,Bahrain
+488,BIH,2010,48685307973.82,NW.PCA.TO,Produced capital (constant 2014 US$),BA,Bosnia and Herzegovina
+489,BLR,2010,274423303575.95,NW.PCA.TO,Produced capital (constant 2014 US$),BY,Belarus
+490,BLZ,2010,4735108812.09,NW.PCA.TO,Produced capital (constant 2014 US$),BZ,Belize
+491,BOL,2010,54017272044.63,NW.PCA.TO,Produced capital (constant 2014 US$),BO,Bolivia
+492,BRA,2010,7007943734446.48,NW.PCA.TO,Produced capital (constant 2014 US$),BR,Brazil
+493,BWA,2010,39877955356.15,NW.PCA.TO,Produced capital (constant 2014 US$),BW,Botswana
+494,CAF,2010,10310797105.76,NW.PCA.TO,Produced capital (constant 2014 US$),CF,Central African Republic
+495,CAN,2010,7124321399912.74,NW.PCA.TO,Produced capital (constant 2014 US$),CA,Canada
+496,CHE,2010,2642611466113.87,NW.PCA.TO,Produced capital (constant 2014 US$),CH,Switzerland
+497,CHL,2010,636357045732.44,NW.PCA.TO,Produced capital (constant 2014 US$),CL,Chile
+498,CHN,2010,25592028939918.20,NW.PCA.TO,Produced capital (constant 2014 US$),CN,China
+499,CIV,2010,70636844199.23,NW.PCA.TO,Produced capital (constant 2014 US$),CI,Cote d'Ivoire
+500,CMR,2010,74123543784.04,NW.PCA.TO,Produced capital (constant 2014 US$),CM,Cameroon
+501,COD,2010,51476214492.86,NW.PCA.TO,Produced capital (constant 2014 US$),CD,"Congo, Dem. Rep."
+502,COG,2010,37407492159.33,NW.PCA.TO,Produced capital (constant 2014 US$),CG,"Congo, Rep."
+503,COL,2010,1063963255990.90,NW.PCA.TO,Produced capital (constant 2014 US$),CO,Colombia
+504,COM,2010,1431809343.92,NW.PCA.TO,Produced capital (constant 2014 US$),KM,Comoros
+505,CRI,2010,101486392548.17,NW.PCA.TO,Produced capital (constant 2014 US$),CR,Costa Rica
+506,DEU,2010,17675048450284.90,NW.PCA.TO,Produced capital (constant 2014 US$),DE,Germany
+507,DJI,2010,8459805126.82,NW.PCA.TO,Produced capital (constant 2014 US$),DJ,Djibouti
+508,DNK,2010,1472356993676.59,NW.PCA.TO,Produced capital (constant 2014 US$),DK,Denmark
+509,DOM,2010,202927052740.44,NW.PCA.TO,Produced capital (constant 2014 US$),DO,Dominican Republic
+510,EAP,2010,31938537679626.60,NW.PCA.TO,Produced capital (constant 2014 US$),4E,East Asia & Pacific (low and middle income)
+511,EAS,2010,65902769669078.70,NW.PCA.TO,Produced capital (constant 2014 US$),Z4,East Asia & Pacific
+512,ECA,2010,5693775302769.37,NW.PCA.TO,Produced capital (constant 2014 US$),7E,Europe & Central Asia (low and middle income)
+513,ECS,2010,99907777373149.90,NW.PCA.TO,Produced capital (constant 2014 US$),Z7,Europe & Central Asia
+514,ECU,2010,274940053283.81,NW.PCA.TO,Produced capital (constant 2014 US$),EC,Ecuador
+515,EGY,2010,528084110329.75,NW.PCA.TO,Produced capital (constant 2014 US$),EG,"Egypt, Arab Rep."
+516,ESP,2010,7041735020029.52,NW.PCA.TO,Produced capital (constant 2014 US$),ES,Spain
+517,EST,2010,104978176841.16,NW.PCA.TO,Produced capital (constant 2014 US$),EE,Estonia
+518,ETH,2010,97631139828.20,NW.PCA.TO,Produced capital (constant 2014 US$),ET,Ethiopia
+519,FIN,2010,1283515969149.36,NW.PCA.TO,Produced capital (constant 2014 US$),FI,Finland
+520,FRA,2010,13623921534907.80,NW.PCA.TO,Produced capital (constant 2014 US$),FR,France
+521,GAB,2010,47950899856.49,NW.PCA.TO,Produced capital (constant 2014 US$),GA,Gabon
+522,GBR,2010,11569393176304.00,NW.PCA.TO,Produced capital (constant 2014 US$),GB,United Kingdom
+523,GEO,2010,68933043105.62,NW.PCA.TO,Produced capital (constant 2014 US$),GE,Georgia
+524,GHA,2010,70283894353.27,NW.PCA.TO,Produced capital (constant 2014 US$),GH,Ghana
+525,GIN,2010,9897991037.49,NW.PCA.TO,Produced capital (constant 2014 US$),GN,Guinea
+526,GMB,2010,2727290073.26,NW.PCA.TO,Produced capital (constant 2014 US$),GM,"Gambia, The"
+527,GRC,2010,1560388201687.07,NW.PCA.TO,Produced capital (constant 2014 US$),GR,Greece
+528,GTM,2010,146248473584.27,NW.PCA.TO,Produced capital (constant 2014 US$),GT,Guatemala
+529,GUY,2010,8819988146.97,NW.PCA.TO,Produced capital (constant 2014 US$),GY,Guyana
+530,HND,2010,59809003249.43,NW.PCA.TO,Produced capital (constant 2014 US$),HN,Honduras
+531,HRV,2010,251565645701.63,NW.PCA.TO,Produced capital (constant 2014 US$),HR,Croatia
+532,HTI,2010,49081134014.77,NW.PCA.TO,Produced capital (constant 2014 US$),HT,Haiti
+533,HUN,2010,623701576869.35,NW.PCA.TO,Produced capital (constant 2014 US$),HU,Hungary
+534,IDN,2010,3233139931711.98,NW.PCA.TO,Produced capital (constant 2014 US$),ID,Indonesia
+535,IND,2010,5157134713485.26,NW.PCA.TO,Produced capital (constant 2014 US$),IN,India
+536,IRL,2010,819310404973.91,NW.PCA.TO,Produced capital (constant 2014 US$),IE,Ireland
+537,IRQ,2010,312828113264.54,NW.PCA.TO,Produced capital (constant 2014 US$),IQ,Iraq
+538,ISL,2010,89101751428.19,NW.PCA.TO,Produced capital (constant 2014 US$),IS,Iceland
+539,ITA,2010,11167049567979.70,NW.PCA.TO,Produced capital (constant 2014 US$),IT,Italy
+540,JAM,2010,81196394352.76,NW.PCA.TO,Produced capital (constant 2014 US$),JM,Jamaica
+541,JOR,2010,115098665991.68,NW.PCA.TO,Produced capital (constant 2014 US$),JO,Jordan
+542,JPN,2010,20928169420011.50,NW.PCA.TO,Produced capital (constant 2014 US$),JP,Japan
+543,KAZ,2010,705467587217.44,NW.PCA.TO,Produced capital (constant 2014 US$),KZ,Kazakhstan
+544,KEN,2010,122791208884.64,NW.PCA.TO,Produced capital (constant 2014 US$),KE,Kenya
+545,KGZ,2010,33097471307.12,NW.PCA.TO,Produced capital (constant 2014 US$),KG,Kyrgyz Republic
+546,KHM,2010,23869289153.54,NW.PCA.TO,Produced capital (constant 2014 US$),KH,Cambodia
+547,KOR,2010,5396642297933.62,NW.PCA.TO,Produced capital (constant 2014 US$),KR,"Korea, Rep."
+548,KWT,2010,233518060854.92,NW.PCA.TO,Produced capital (constant 2014 US$),KW,Kuwait
+549,LAC,2010,14285811558335.80,NW.PCA.TO,Produced capital (constant 2014 US$),XJ,Latin America & Caribbean (low and middle income)
+550,LAO,2010,24142496655.72,NW.PCA.TO,Produced capital (constant 2014 US$),LA,Lao PDR
+551,LBN,2010,144335201856.56,NW.PCA.TO,Produced capital (constant 2014 US$),LB,Lebanon
+552,LBR,2010,3618413480.47,NW.PCA.TO,Produced capital (constant 2014 US$),LR,Liberia
+553,LCN,2010,17495544387155.30,NW.PCA.TO,Produced capital (constant 2014 US$),ZJ,Latin America & Caribbean
+554,LIC,2010,722756126529.13,NW.PCA.TO,Produced capital (constant 2014 US$),XM,Low income
+555,LKA,2010,203340441688.51,NW.PCA.TO,Produced capital (constant 2014 US$),LK,Sri Lanka
+556,LMC,2010,15228984559737.70,NW.PCA.TO,Produced capital (constant 2014 US$),XN,Lower middle income
+557,LTU,2010,168162629512.62,NW.PCA.TO,Produced capital (constant 2014 US$),LT,Lithuania
+558,LUX,2010,181002435445.81,NW.PCA.TO,Produced capital (constant 2014 US$),LU,Luxembourg
+559,LVA,2010,179345734613.84,NW.PCA.TO,Produced capital (constant 2014 US$),LV,Latvia
+560,MAR,2010,373544589836.32,NW.PCA.TO,Produced capital (constant 2014 US$),MA,Morocco
+561,MDA,2010,47584450636.31,NW.PCA.TO,Produced capital (constant 2014 US$),MD,Moldova
+562,MDG,2010,24903130482.92,NW.PCA.TO,Produced capital (constant 2014 US$),MG,Madagascar
+563,MDV,2010,6934089574.32,NW.PCA.TO,Produced capital (constant 2014 US$),MV,Maldives
+564,MEA,2010,5400403942079.15,NW.PCA.TO,Produced capital (constant 2014 US$),ZQ,Middle East & North Africa
+565,MEX,2010,4471127125094.75,NW.PCA.TO,Produced capital (constant 2014 US$),MX,Mexico
+566,MKD,2010,36053206673.61,NW.PCA.TO,Produced capital (constant 2014 US$),MK,"Macedonia, FYR"
+567,MLI,2010,26126109545.07,NW.PCA.TO,Produced capital (constant 2014 US$),ML,Mali
+568,MLT,2010,28230907064.68,NW.PCA.TO,Produced capital (constant 2014 US$),MT,Malta
+569,MNA,2010,1770721099725.87,NW.PCA.TO,Produced capital (constant 2014 US$),XQ,Middle East & North Africa (low and middle income)
+570,MNG,2010,42686616519.23,NW.PCA.TO,Produced capital (constant 2014 US$),MN,Mongolia
+571,MOZ,2010,20240875397.28,NW.PCA.TO,Produced capital (constant 2014 US$),MZ,Mozambique
+572,MRT,2010,15787495298.12,NW.PCA.TO,Produced capital (constant 2014 US$),MR,Mauritania
+573,MUS,2010,35133246476.88,NW.PCA.TO,Produced capital (constant 2014 US$),MU,Mauritius
+574,MWI,2010,12490736972.15,NW.PCA.TO,Produced capital (constant 2014 US$),MW,Malawi
+575,MYS,2010,692811571625.42,NW.PCA.TO,Produced capital (constant 2014 US$),MY,Malaysia
+576,NAC,2010,70966970181686.00,NW.PCA.TO,Produced capital (constant 2014 US$),XU,North America
+577,NAM,2010,25488666887.59,NW.PCA.TO,Produced capital (constant 2014 US$),NA,Namibia
+578,NER,2010,36237664064.40,NW.PCA.TO,Produced capital (constant 2014 US$),NE,Niger
+579,NGA,2010,804323718673.38,NW.PCA.TO,Produced capital (constant 2014 US$),NG,Nigeria
+580,NIC,2010,45960377601.85,NW.PCA.TO,Produced capital (constant 2014 US$),NI,Nicaragua
+581,NLD,2010,4109489462187.48,NW.PCA.TO,Produced capital (constant 2014 US$),NL,Netherlands
+582,NOC,2010,15170858404707.60,NW.PCA.TO,Produced capital (constant 2014 US$),#N/A,High income: non-OECD
+583,NOR,2010,1957104326286.13,NW.PCA.TO,Produced capital (constant 2014 US$),NO,Norway
+584,NPL,2010,54444026982.50,NW.PCA.TO,Produced capital (constant 2014 US$),NP,Nepal
+585,OEC,2010,190813761507983.00,NW.PCA.TO,Produced capital (constant 2014 US$),#N/A,High income: OECD
+586,OMN,2010,174991308775.54,NW.PCA.TO,Produced capital (constant 2014 US$),OM,Oman
+587,PAK,2010,472365152465.33,NW.PCA.TO,Produced capital (constant 2014 US$),PK,Pakistan
+588,PAN,2010,104025283609.38,NW.PCA.TO,Produced capital (constant 2014 US$),PA,Panama
+589,PER,2010,460175201863.40,NW.PCA.TO,Produced capital (constant 2014 US$),PE,Peru
+590,PHL,2010,681628866708.61,NW.PCA.TO,Produced capital (constant 2014 US$),PH,Philippines
+591,PNG,2010,29678533502.51,NW.PCA.TO,Produced capital (constant 2014 US$),PG,Papua New Guinea
+592,POL,2010,1445158003382.66,NW.PCA.TO,Produced capital (constant 2014 US$),PL,Poland
+593,PRT,2010,1260781265505.13,NW.PCA.TO,Produced capital (constant 2014 US$),PT,Portugal
+594,PRY,2010,68420849166.19,NW.PCA.TO,Produced capital (constant 2014 US$),PY,Paraguay
+595,PSE,2010,42108245601.48,NW.PCA.TO,Produced capital (constant 2014 US$),PS,West Bank and Gaza
+596,QAT,2010,319707640628.73,NW.PCA.TO,Produced capital (constant 2014 US$),QA,Qatar
+597,ROU,2010,781134447350.22,NW.PCA.TO,Produced capital (constant 2014 US$),RO,Romania
+598,RUS,2010,7588799349687.11,NW.PCA.TO,Produced capital (constant 2014 US$),RU,Russian Federation
+599,RWA,2010,12125689911.16,NW.PCA.TO,Produced capital (constant 2014 US$),RW,Rwanda
+600,SAS,2010,6278362854503.17,NW.PCA.TO,Produced capital (constant 2014 US$),8S,South Asia
+601,SAU,2010,1715988548700.71,NW.PCA.TO,Produced capital (constant 2014 US$),SA,Saudi Arabia
+602,SEN,2010,46562611486.27,NW.PCA.TO,Produced capital (constant 2014 US$),SN,Senegal
+603,SGP,2010,779926419752.14,NW.PCA.TO,Produced capital (constant 2014 US$),SG,Singapore
+604,SLB,2010,1131494843.72,NW.PCA.TO,Produced capital (constant 2014 US$),SB,Solomon Islands
+605,SLE,2010,6915509229.74,NW.PCA.TO,Produced capital (constant 2014 US$),SL,Sierra Leone
+606,SLV,2010,59213314884.92,NW.PCA.TO,Produced capital (constant 2014 US$),SV,El Salvador
+607,SSA,2010,3019587742910.42,NW.PCA.TO,Produced capital (constant 2014 US$),ZF,Sub-Saharan Africa
+608,SUR,2010,21721542900.65,NW.PCA.TO,Produced capital (constant 2014 US$),SR,Suriname
+609,SVK,2010,354713722249.72,NW.PCA.TO,Produced capital (constant 2014 US$),SK,Slovak Republic
+610,SVN,2010,237090074386.01,NW.PCA.TO,Produced capital (constant 2014 US$),SI,Slovenia
+611,SWE,2010,2575694462845.77,NW.PCA.TO,Produced capital (constant 2014 US$),SE,Sweden
+612,SWZ,2010,16655167696.56,NW.PCA.TO,Produced capital (constant 2014 US$),SZ,Swaziland
+613,TCD,2010,20278121153.75,NW.PCA.TO,Produced capital (constant 2014 US$),TD,Chad
+614,TGO,2010,12281369879.12,NW.PCA.TO,Produced capital (constant 2014 US$),TG,Togo
+615,THA,2010,1167657291138.63,NW.PCA.TO,Produced capital (constant 2014 US$),TH,Thailand
+616,TJK,2010,217266032735.65,NW.PCA.TO,Produced capital (constant 2014 US$),TJ,Tajikistan
+617,TKM,2010,121333233259.70,NW.PCA.TO,Produced capital (constant 2014 US$),TM,Turkmenistan
+618,TUN,2010,148618932298.54,NW.PCA.TO,Produced capital (constant 2014 US$),TN,Tunisia
+619,TUR,2010,1612050116744.13,NW.PCA.TO,Produced capital (constant 2014 US$),TR,Turkey
+620,TZA,2010,122370956388.87,NW.PCA.TO,Produced capital (constant 2014 US$),TZ,Tanzania
+621,UGA,2010,46543264923.60,NW.PCA.TO,Produced capital (constant 2014 US$),UG,Uganda
+622,UKR,2010,1404183912537.01,NW.PCA.TO,Produced capital (constant 2014 US$),UA,Ukraine
+623,UMC,2010,47035055551604.50,NW.PCA.TO,Produced capital (constant 2014 US$),XT,Upper middle income
+624,URY,2010,173507366861.66,NW.PCA.TO,Produced capital (constant 2014 US$),UY,Uruguay
+625,USA,2010,63842648781773.30,NW.PCA.TO,Produced capital (constant 2014 US$),US,United States
+626,VEN,2010,845719308414.93,NW.PCA.TO,Produced capital (constant 2014 US$),VE,"Venezuela, RB"
+627,VNM,2010,449762647849.01,NW.PCA.TO,Produced capital (constant 2014 US$),VN,Vietnam
+628,WLD,2010,268971416150562.00,NW.PCA.TO,Produced capital (constant 2014 US$),1W,World
+629,YEM,2010,97643435420.19,NW.PCA.TO,Produced capital (constant 2014 US$),YE,"Yemen, Rep."
+630,ZAF,2010,925414714833.83,NW.PCA.TO,Produced capital (constant 2014 US$),ZA,South Africa
+631,ZMB,2010,91788606586.33,NW.PCA.TO,Produced capital (constant 2014 US$),ZM,Zambia
+632,ZWE,2010,48422011836.03,NW.PCA.TO,Produced capital (constant 2014 US$),ZW,Zimbabwe
+633,ALB,2014,54422929465.01,NW.PCA.TO,Produced capital (constant 2014 US$),AL,Albania
+634,ARE,2014,1141733532460.82,NW.PCA.TO,Produced capital (constant 2014 US$),AE,United Arab Emirates
+635,ARG,2014,1627625154861.76,NW.PCA.TO,Produced capital (constant 2014 US$),AR,Argentina
+636,ARM,2014,46447537527.00,NW.PCA.TO,Produced capital (constant 2014 US$),AM,Armenia
+637,AUS,2014,7306655643017.24,NW.PCA.TO,Produced capital (constant 2014 US$),AU,Australia
+638,AUT,2014,2192997072325.29,NW.PCA.TO,Produced capital (constant 2014 US$),AT,Austria
+639,AZE,2014,191285478199.63,NW.PCA.TO,Produced capital (constant 2014 US$),AZ,Azerbaijan
+640,BDI,2014,5257389286.47,NW.PCA.TO,Produced capital (constant 2014 US$),BI,Burundi
+641,BEL,2014,2379586922085.91,NW.PCA.TO,Produced capital (constant 2014 US$),BE,Belgium
+642,BFA,2014,30850713388.53,NW.PCA.TO,Produced capital (constant 2014 US$),BF,Burkina Faso
+643,BGD,2014,546349082882.39,NW.PCA.TO,Produced capital (constant 2014 US$),BD,Bangladesh
+644,BGR,2014,167490825619.94,NW.PCA.TO,Produced capital (constant 2014 US$),BG,Bulgaria
+645,BHR,2014,104579963075.49,NW.PCA.TO,Produced capital (constant 2014 US$),BH,Bahrain
+646,BIH,2014,52843358698.55,NW.PCA.TO,Produced capital (constant 2014 US$),BA,Bosnia and Herzegovina
+647,BLR,2014,316336842886.11,NW.PCA.TO,Produced capital (constant 2014 US$),BY,Belarus
+648,BLZ,2014,4326905976.33,NW.PCA.TO,Produced capital (constant 2014 US$),BZ,Belize
+649,BOL,2014,69987811791.99,NW.PCA.TO,Produced capital (constant 2014 US$),BO,Bolivia
+650,BRA,2014,6608318421428.83,NW.PCA.TO,Produced capital (constant 2014 US$),BR,Brazil
+651,BWA,2014,44194617226.01,NW.PCA.TO,Produced capital (constant 2014 US$),BW,Botswana
+652,CAF,2014,11686963057.69,NW.PCA.TO,Produced capital (constant 2014 US$),CF,Central African Republic
+653,CAN,2014,8175213003427.54,NW.PCA.TO,Produced capital (constant 2014 US$),CA,Canada
+654,CHE,2014,2915774879734.03,NW.PCA.TO,Produced capital (constant 2014 US$),CH,Switzerland
+655,CHL,2014,801024139513.18,NW.PCA.TO,Produced capital (constant 2014 US$),CL,Chile
+656,CHN,2014,38971412411914.10,NW.PCA.TO,Produced capital (constant 2014 US$),CN,China
+657,CIV,2014,97281292996.31,NW.PCA.TO,Produced capital (constant 2014 US$),CI,Cote d'Ivoire
+658,CMR,2014,85814790777.96,NW.PCA.TO,Produced capital (constant 2014 US$),CM,Cameroon
+659,COD,2014,177405715554.17,NW.PCA.TO,Produced capital (constant 2014 US$),CD,"Congo, Dem. Rep."
+660,COG,2014,69380172266.87,NW.PCA.TO,Produced capital (constant 2014 US$),CG,"Congo, Rep."
+661,COL,2014,1331324609364.64,NW.PCA.TO,Produced capital (constant 2014 US$),CO,Colombia
+662,COM,2014,1990763749.35,NW.PCA.TO,Produced capital (constant 2014 US$),KM,Comoros
+663,CRI,2014,117423689913.04,NW.PCA.TO,Produced capital (constant 2014 US$),CR,Costa Rica
+664,DEU,2014,19183998865893.70,NW.PCA.TO,Produced capital (constant 2014 US$),DE,Germany
+665,DJI,2014,5288479970.87,NW.PCA.TO,Produced capital (constant 2014 US$),DJ,Djibouti
+666,DNK,2014,1540777658905.48,NW.PCA.TO,Produced capital (constant 2014 US$),DK,Denmark
+667,DOM,2014,226930984465.06,NW.PCA.TO,Produced capital (constant 2014 US$),DO,Dominican Republic
+668,EAP,2014,46575004214748.20,NW.PCA.TO,Produced capital (constant 2014 US$),4E,East Asia & Pacific (low and middle income)
+669,EAS,2014,84077115887254.30,NW.PCA.TO,Produced capital (constant 2014 US$),Z4,East Asia & Pacific
+670,ECA,2014,6238929132734.93,NW.PCA.TO,Produced capital (constant 2014 US$),7E,Europe & Central Asia (low and middle income)
+671,ECS,2014,104574108391093.00,NW.PCA.TO,Produced capital (constant 2014 US$),Z7,Europe & Central Asia
+672,ECU,2014,325520983484.11,NW.PCA.TO,Produced capital (constant 2014 US$),EC,Ecuador
+673,EGY,2014,502053827750.94,NW.PCA.TO,Produced capital (constant 2014 US$),EG,"Egypt, Arab Rep."
+674,ESP,2014,6638422920786.08,NW.PCA.TO,Produced capital (constant 2014 US$),ES,Spain
+675,EST,2014,120472513066.38,NW.PCA.TO,Produced capital (constant 2014 US$),EE,Estonia
+676,ETH,2014,130634408312.71,NW.PCA.TO,Produced capital (constant 2014 US$),ET,Ethiopia
+677,FIN,2014,1359839116564.01,NW.PCA.TO,Produced capital (constant 2014 US$),FI,Finland
+678,FRA,2014,14832987359069.00,NW.PCA.TO,Produced capital (constant 2014 US$),FR,France
+679,GAB,2014,58556919229.10,NW.PCA.TO,Produced capital (constant 2014 US$),GA,Gabon
+680,GBR,2014,12499786250396.70,NW.PCA.TO,Produced capital (constant 2014 US$),GB,United Kingdom
+681,GEO,2014,76085320263.46,NW.PCA.TO,Produced capital (constant 2014 US$),GE,Georgia
+682,GHA,2014,100930518431.91,NW.PCA.TO,Produced capital (constant 2014 US$),GH,Ghana
+683,GIN,2014,16048654905.87,NW.PCA.TO,Produced capital (constant 2014 US$),GN,Guinea
+684,GMB,2014,2978702594.29,NW.PCA.TO,Produced capital (constant 2014 US$),GM,"Gambia, The"
+685,GRC,2014,1469332521323.95,NW.PCA.TO,Produced capital (constant 2014 US$),GR,Greece
+686,GTM,2014,153026242707.61,NW.PCA.TO,Produced capital (constant 2014 US$),GT,Guatemala
+687,GUY,2014,9436448004.78,NW.PCA.TO,Produced capital (constant 2014 US$),GY,Guyana
+688,HND,2014,67094780902.41,NW.PCA.TO,Produced capital (constant 2014 US$),HN,Honduras
+689,HRV,2014,249073158119.14,NW.PCA.TO,Produced capital (constant 2014 US$),HR,Croatia
+690,HTI,2014,63311459853.99,NW.PCA.TO,Produced capital (constant 2014 US$),HT,Haiti
+691,HUN,2014,646855540897.86,NW.PCA.TO,Produced capital (constant 2014 US$),HU,Hungary
+692,IDN,2014,3892861013676.84,NW.PCA.TO,Produced capital (constant 2014 US$),ID,Indonesia
+693,IND,2014,6685443757675.00,NW.PCA.TO,Produced capital (constant 2014 US$),IN,India
+694,IRL,2014,874081046464.02,NW.PCA.TO,Produced capital (constant 2014 US$),IE,Ireland
+695,IRQ,2014,511829304270.77,NW.PCA.TO,Produced capital (constant 2014 US$),IQ,Iraq
+696,ISL,2014,88716048039.85,NW.PCA.TO,Produced capital (constant 2014 US$),IS,Iceland
+697,ITA,2014,11431682719807.20,NW.PCA.TO,Produced capital (constant 2014 US$),IT,Italy
+698,JAM,2014,84370233105.17,NW.PCA.TO,Produced capital (constant 2014 US$),JM,Jamaica
+699,JOR,2014,130351562932.75,NW.PCA.TO,Produced capital (constant 2014 US$),JO,Jordan
+700,JPN,2014,22791802158297.90,NW.PCA.TO,Produced capital (constant 2014 US$),JP,Japan
+701,KAZ,2014,694155209676.13,NW.PCA.TO,Produced capital (constant 2014 US$),KZ,Kazakhstan
+702,KEN,2014,150565963230.87,NW.PCA.TO,Produced capital (constant 2014 US$),KE,Kenya
+703,KGZ,2014,35939400512.89,NW.PCA.TO,Produced capital (constant 2014 US$),KG,Kyrgyz Republic
+704,KHM,2014,33900560447.95,NW.PCA.TO,Produced capital (constant 2014 US$),KH,Cambodia
+705,KOR,2014,6386190812006.00,NW.PCA.TO,Produced capital (constant 2014 US$),KR,"Korea, Rep."
+706,KWT,2014,281030563709.95,NW.PCA.TO,Produced capital (constant 2014 US$),KW,Kuwait
+707,LAC,2014,15008088945408.50,NW.PCA.TO,Produced capital (constant 2014 US$),XJ,Latin America & Caribbean (low and middle income)
+708,LAO,2014,35311856365.04,NW.PCA.TO,Produced capital (constant 2014 US$),LA,Lao PDR
+709,LBN,2014,174060379744.90,NW.PCA.TO,Produced capital (constant 2014 US$),LB,Lebanon
+710,LBR,2014,5360752687.20,NW.PCA.TO,Produced capital (constant 2014 US$),LR,Liberia
+711,LCN,2014,19809636652057.70,NW.PCA.TO,Produced capital (constant 2014 US$),ZJ,Latin America & Caribbean
+712,LIC,2014,1033431495222.40,NW.PCA.TO,Produced capital (constant 2014 US$),XM,Low income
+713,LKA,2014,235796816353.50,NW.PCA.TO,Produced capital (constant 2014 US$),LK,Sri Lanka
+714,LMC,2014,17800472652570.20,NW.PCA.TO,Produced capital (constant 2014 US$),XN,Lower middle income
+715,LTU,2014,185484389628.41,NW.PCA.TO,Produced capital (constant 2014 US$),LT,Lithuania
+716,LUX,2014,199933133945.97,NW.PCA.TO,Produced capital (constant 2014 US$),LU,Luxembourg
+717,LVA,2014,226784558242.33,NW.PCA.TO,Produced capital (constant 2014 US$),LV,Latvia
+718,MAR,2014,461886679628.67,NW.PCA.TO,Produced capital (constant 2014 US$),MA,Morocco
+719,MDA,2014,50546341545.30,NW.PCA.TO,Produced capital (constant 2014 US$),MD,Moldova
+720,MDG,2014,21662729310.43,NW.PCA.TO,Produced capital (constant 2014 US$),MG,Madagascar
+721,MDV,2014,6761573080.82,NW.PCA.TO,Produced capital (constant 2014 US$),MV,Maldives
+722,MEA,2014,6384808491389.47,NW.PCA.TO,Produced capital (constant 2014 US$),ZQ,Middle East & North Africa
+723,MEX,2014,5005149269660.21,NW.PCA.TO,Produced capital (constant 2014 US$),MX,Mexico
+724,MKD,2014,39371565308.10,NW.PCA.TO,Produced capital (constant 2014 US$),MK,"Macedonia, FYR"
+725,MLI,2014,34147521946.63,NW.PCA.TO,Produced capital (constant 2014 US$),ML,Mali
+726,MLT,2014,32117892387.03,NW.PCA.TO,Produced capital (constant 2014 US$),MT,Malta
+727,MNA,2014,2095190578590.37,NW.PCA.TO,Produced capital (constant 2014 US$),XQ,Middle East & North Africa (low and middle income)
+728,MNG,2014,47974667445.22,NW.PCA.TO,Produced capital (constant 2014 US$),MN,Mongolia
+729,MOZ,2014,32977219106.98,NW.PCA.TO,Produced capital (constant 2014 US$),MZ,Mozambique
+730,MRT,2014,19416552233.29,NW.PCA.TO,Produced capital (constant 2014 US$),MR,Mauritania
+731,MUS,2014,40567819425.72,NW.PCA.TO,Produced capital (constant 2014 US$),MU,Mauritius
+732,MWI,2014,15677735284.67,NW.PCA.TO,Produced capital (constant 2014 US$),MW,Malawi
+733,MYS,2014,896725635837.34,NW.PCA.TO,Produced capital (constant 2014 US$),MY,Malaysia
+734,NAC,2014,77118389929986.40,NW.PCA.TO,Produced capital (constant 2014 US$),XU,North America
+735,NAM,2014,30506113916.21,NW.PCA.TO,Produced capital (constant 2014 US$),NA,Namibia
+736,NER,2014,45287478755.69,NW.PCA.TO,Produced capital (constant 2014 US$),NE,Niger
+737,NGA,2014,683531366139.18,NW.PCA.TO,Produced capital (constant 2014 US$),NG,Nigeria
+738,NIC,2014,54578087398.41,NW.PCA.TO,Produced capital (constant 2014 US$),NI,Nicaragua
+739,NLD,2014,3953404119780.25,NW.PCA.TO,Produced capital (constant 2014 US$),NL,Netherlands
+740,NOC,2014,16988316957114.60,NW.PCA.TO,Produced capital (constant 2014 US$),#N/A,High income: non-OECD
+741,NOR,2014,2177700157409.29,NW.PCA.TO,Produced capital (constant 2014 US$),NO,Norway
+742,NPL,2014,65749066745.59,NW.PCA.TO,Produced capital (constant 2014 US$),NP,Nepal
+743,OEC,2014,205058529523185.00,NW.PCA.TO,Produced capital (constant 2014 US$),#N/A,High income: OECD
+744,OMN,2014,207755957047.86,NW.PCA.TO,Produced capital (constant 2014 US$),OM,Oman
+745,PAK,2014,560438097616.20,NW.PCA.TO,Produced capital (constant 2014 US$),PK,Pakistan
+746,PAN,2014,117488501091.59,NW.PCA.TO,Produced capital (constant 2014 US$),PA,Panama
+747,PER,2014,604661568347.15,NW.PCA.TO,Produced capital (constant 2014 US$),PE,Peru
+748,PHL,2014,779242243492.45,NW.PCA.TO,Produced capital (constant 2014 US$),PH,Philippines
+749,PNG,2014,34527113586.20,NW.PCA.TO,Produced capital (constant 2014 US$),PG,Papua New Guinea
+750,POL,2014,1523691250577.75,NW.PCA.TO,Produced capital (constant 2014 US$),PL,Poland
+751,PRT,2014,1221181905754.96,NW.PCA.TO,Produced capital (constant 2014 US$),PT,Portugal
+752,PRY,2014,77765685860.68,NW.PCA.TO,Produced capital (constant 2014 US$),PY,Paraguay
+753,PSE,2014,49529727791.41,NW.PCA.TO,Produced capital (constant 2014 US$),PS,West Bank and Gaza
+754,QAT,2014,473176471218.27,NW.PCA.TO,Produced capital (constant 2014 US$),QA,Qatar
+755,ROU,2014,819510117873.02,NW.PCA.TO,Produced capital (constant 2014 US$),RO,Romania
+756,RUS,2014,7019370312004.70,NW.PCA.TO,Produced capital (constant 2014 US$),RU,Russian Federation
+757,RWA,2014,17439557162.97,NW.PCA.TO,Produced capital (constant 2014 US$),RW,Rwanda
+758,SAS,2014,8100538394353.50,NW.PCA.TO,Produced capital (constant 2014 US$),8S,South Asia
+759,SAU,2014,2049223532899.66,NW.PCA.TO,Produced capital (constant 2014 US$),SA,Saudi Arabia
+760,SEN,2014,54818025922.99,NW.PCA.TO,Produced capital (constant 2014 US$),SN,Senegal
+761,SGP,2014,1017463059184.97,NW.PCA.TO,Produced capital (constant 2014 US$),SG,Singapore
+762,SLB,2014,1050065159.16,NW.PCA.TO,Produced capital (constant 2014 US$),SB,Solomon Islands
+763,SLE,2014,7363278376.01,NW.PCA.TO,Produced capital (constant 2014 US$),SL,Sierra Leone
+764,SLV,2014,62397382244.58,NW.PCA.TO,Produced capital (constant 2014 US$),SV,El Salvador
+765,SSA,2014,3484009923485.90,NW.PCA.TO,Produced capital (constant 2014 US$),ZF,Sub-Saharan Africa
+766,SUR,2014,24975879808.01,NW.PCA.TO,Produced capital (constant 2014 US$),SR,Suriname
+767,SVK,2014,381279829801.21,NW.PCA.TO,Produced capital (constant 2014 US$),SK,Slovak Republic
+768,SVN,2014,250898746189.82,NW.PCA.TO,Produced capital (constant 2014 US$),SI,Slovenia
+769,SWE,2014,2771066261545.18,NW.PCA.TO,Produced capital (constant 2014 US$),SE,Sweden
+770,SWZ,2014,22702567921.50,NW.PCA.TO,Produced capital (constant 2014 US$),SZ,Swaziland
+771,TCD,2014,21993027343.78,NW.PCA.TO,Produced capital (constant 2014 US$),TD,Chad
+772,TGO,2014,13970267363.12,NW.PCA.TO,Produced capital (constant 2014 US$),TG,Togo
+773,THA,2014,1380242265672.44,NW.PCA.TO,Produced capital (constant 2014 US$),TH,Thailand
+774,TJK,2014,252166529070.28,NW.PCA.TO,Produced capital (constant 2014 US$),TJ,Tajikistan
+775,TKM,2014,210905838801.15,NW.PCA.TO,Produced capital (constant 2014 US$),TM,Turkmenistan
+776,TUN,2014,165150795268.24,NW.PCA.TO,Produced capital (constant 2014 US$),TN,Tunisia
+777,TUR,2014,2091902596947.01,NW.PCA.TO,Produced capital (constant 2014 US$),TR,Turkey
+778,TZA,2014,165783755541.12,NW.PCA.TO,Produced capital (constant 2014 US$),TZ,Tanzania
+779,UGA,2014,70722222657.06,NW.PCA.TO,Produced capital (constant 2014 US$),UG,Uganda
+780,UKR,2014,1139519240341.36,NW.PCA.TO,Produced capital (constant 2014 US$),UA,Ukraine
+781,UMC,2014,62667857041528.80,NW.PCA.TO,Produced capital (constant 2014 US$),XT,Upper middle income
+782,URY,2014,219699227461.02,NW.PCA.TO,Produced capital (constant 2014 US$),UY,Uruguay
+783,USA,2014,68943176926558.90,NW.PCA.TO,Produced capital (constant 2014 US$),US,United States
+784,VEN,2014,2153199184813.16,NW.PCA.TO,Produced capital (constant 2014 US$),VE,"Venezuela, RB"
+785,VNM,2014,501756381151.38,NW.PCA.TO,Produced capital (constant 2014 US$),VN,Vietnam
+786,WLD,2014,303548607669621.00,NW.PCA.TO,Produced capital (constant 2014 US$),1W,World
+787,YEM,2014,95039821231.83,NW.PCA.TO,Produced capital (constant 2014 US$),YE,"Yemen, Rep."
+788,ZAF,2014,1043041479585.72,NW.PCA.TO,Produced capital (constant 2014 US$),ZA,South Africa
+789,ZMB,2014,112231316007.39,NW.PCA.TO,Produced capital (constant 2014 US$),ZM,Zambia
+790,ZWE,2014,41231551790.11,NW.PCA.TO,Produced capital (constant 2014 US$),ZW,Zimbabwe

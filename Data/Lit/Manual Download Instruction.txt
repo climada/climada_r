@@ -1,0 +1,2 @@
+In case of firewall issues, pls download Grayscale Regional GeoTIFF files from below link:
+https://earthobservatory.nasa.gov/features/NightLights

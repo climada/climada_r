@@ -1,0 +1,2 @@
+In case of firewall issues, pls download files from below link:
+https://www.worldclim.org/data/monthlywth.html
