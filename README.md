@@ -1,4 +1,4 @@
-# climada_r
+CLIMADA in R
 Climada Implementation in R with Modification
 
 Using state-of-the-art probabilistic modelling CLIMADA allows to estimate the expected economic damage as a measure of risk today, the incremental increase from economic growth and the further incremental increase due to climate change. The economics of climate adaptation methodology as implemented in CLIMADA provides decision makers with a fact base to understand the impact of weather and climate on their economies, including cost/benefit perspectives on specific risk reduction measures. The model is well suited to provide an open and independent view on physical risk, in line with e.g. the TCFD (Task Force for Climate related Financial Disclosure).
