@@ -13,37 +13,9 @@ Output.Print_Impact <-
            sp_impact)
   {
     DP_DP <- 1
-    DP_GDP_Country <- MEF.Get_GDP_Value(country_iso3, year)$value
-    Raster_GDP_Country <-
-      raster_gdp_proxy_country * (DP_GDP_Country / 10 ^ 6)
-    Raster_Pop_Country <-
-      Pop.Get_Population_Raster(year, sp_country)
+    DP_GDP_Country <-  round(MEF.Get_GDP_Value(country_iso3, year)$value / 10 ^ 6, DP_DP)
     
-    Raster_GDP_Impact <- Raster_GDP_Country[sp_impact, drop = F]
-    Raster_GDP_Proxy_Impact <-
-      raster_gdp_proxy_country[sp_impact, drop = F]
-    
-    DP_GDP_Impacted <-
-      round(cellStats(Raster_GDP_Impact, sum), DP_DP)
-    DP_GDP_Country <-
-      round(cellStats(Raster_GDP_Country, sum), DP_DP)
-    DP_GDP_Percent <-
-      round(cellStats(Raster_GDP_Proxy_Impact, sum) * 100, DP_DP)
-    print(
-      paste0(
-        Output.Class,
-        ": ",
-        country_iso3,
-        " impacted GDP: $",
-        format(DP_GDP_Impacted, nsmall = DP_DP),
-        "mn over total: $",
-        format(DP_GDP_Country, nsmall = DP_DP),
-        "mn, equivalent to ",
-        format(DP_GDP_Percent, nsmall = DP_DP),
-        "% "
-      )
-    )
-    
+    Raster_Pop_Country <- Pop.Get_Population_Raster(year, sp_country)
     Raster_Pop_Impacted <- Raster_Pop_Country[sp_impact, drop = F]
     DP_Pop_Affected <-
       round(cellStats(Raster_Pop_Impacted, sum) / 10 ^ 6, DP_DP)
@@ -65,4 +37,27 @@ Output.Print_Impact <-
         "% "
       )
     )
+    
+    Raster_GDP_Proxy_Impact <-
+      raster_gdp_proxy_country[sp_impact, drop = F]
+    DP_GDP_Percent <-
+      round(cellStats(Raster_GDP_Proxy_Impact, sum) * 100, DP_DP)
+    DP_GDP_Impacted <- round(DP_GDP_Percent / 100 * DP_GDP_Country, DP_DP)
+    
+    print(
+      paste0(
+        Output.Class,
+        ": ",
+        country_iso3,
+        " impacted GDP: $",
+        format(DP_GDP_Impacted, nsmall = DP_DP),
+        "mn over total: $",
+        format(DP_GDP_Country, nsmall = DP_DP),
+        "mn, equivalent to ",
+        format(DP_GDP_Percent, nsmall = DP_DP),
+        "% "
+      )
+    )
+    
+    
   }
