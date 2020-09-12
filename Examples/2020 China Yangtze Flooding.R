@@ -33,11 +33,7 @@ source(Ref.DIR_FUNC_LitPop)
 Raster_GDP_Proxy_Country <- LitPop.Get_GDP_Proxy_Raster(DP_Country_ISO3, DP_Year)
 source(Ref.DIR_FUNC_MEF)
 DF_Country_GDP <- MEF.Get_GDP_Value(DP_Country_ISO3, DP_Year)
-Raster_GDP_Country <- Raster_GDP_Proxy_Country * DF_Country_GDP$value / 10 ^ 6
-
-# Population Map
-source(Ref.DIR_FUNC_Pop)
-Raster_Pop_Country <- Pop.Get_Population_Raster(DP_Year, SP_Country) / 10 ^ 6
+Raster_GDP_Country <- Raster_GDP_Proxy_Country * (DF_Country_GDP$value / 10 ^ 6)
 
 # Impacted States
 VT_States_Core <- c("Anhui", "Hubei", "Jiangsu", "Zhejiang", "Jiangxi", "Shanghai", "Hunan")
@@ -65,12 +61,9 @@ plot(SP_Rivers_Country, add=T, lwd=SP_Rivers_Country$strokelwd/5, col=Color_Pale
 plot(SP_Impact, add=T, col=Color_Palette_Impact(1))
 
 # Extract Impacted Area from GDP Maps & Population Maps
-Raster_GDP_Impact <- Raster_GDP_Country[SP_Impact, drop=F]
-print(paste0(DP_Country_ISO3, " GDP Impacted: $", cellStats(Raster_GDP_Impact, sum), "mn over Total: $", cellStats(Raster_GDP_Country, sum), "mn"))
-
-Raster_GDP_Proxy_Impact <- Raster_GDP_Proxy_Country[SP_Impact, drop=F]
-print(paste0(DP_Country_ISO3, " % GDP Impacted: ", cellStats(Raster_GDP_Proxy_Impact, sum)*100, "%"))
-
-Raster_Pop_Impacted <- Raster_Pop_Country[SP_Impact, drop=F]
-print(paste0(DP_Country_ISO3, " Population Affected: ", cellStats(Raster_Pop_Impacted, sum), "mn"))
-
+source(Ref.DIR_FUNC_Output)
+Output.Print_Impact(DP_Country_ISO3,
+                    DP_Year,
+                    Raster_GDP_Proxy_Country,
+                    SP_Country,
+                    SP_Impact)
