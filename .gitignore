@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+*.tif
+*.tar
+*.zip
+*.grd
+*.gri
+*.vrt
+*.rds
