@@ -29,10 +29,6 @@ DL_Countries <-
 DL_Countries <- DL_Countries[!is.na(DL_Countries[])]
 DP_Country_ISO3 <- DL_Countries[[1]]
 
-# Population Raster
-source(Ref.DIR_FUNC_Pop)
-Raster_Pop_Country <- Pop.Get_Population_Raster()
-
 # GDP Raster
 source(Ref.DIR_FUNC_LitPop)
 source(Ref.DIR_FUNC_MEF)
@@ -40,7 +36,7 @@ Raster_GDP_Proxy_Country <-
   LitPop.Get_GDP_Proxy_Raster(DP_Country_ISO3, DP_Year)
 DP_Country_GDP <- MEF.Get_GDP_Value(DP_Country_ISO3, DP_Year)
 Raster_GDP_Country <-
-  Raster_GDP_Proxy_Country * DP_Country_GDP$value / 10 ^ 6
+  Raster_GDP_Proxy_Country * (DP_Country_GDP$value / 10 ^ 6)
 SP_Country <-
   SP_Countries[!is.na(SP_Countries$iso_a3) &
                  SP_Countries$iso_a3 == DP_Country_ISO3,]
@@ -74,31 +70,9 @@ text(x = MX_Coordinates[, 1],
 plot(SP_Impact, add = T, col = Color_Palette_Top(1))
 
 # Print Impacted MEF Loss
-Raster_GDP_Impact <- Raster_GDP_Country[SP_Impact, drop = F]
-print(
-  paste0(
-    DP_Country_Name,
-    " GDP Impacted: $",
-    cellStats(Raster_GDP_Impact, sum),
-    "mn over Total: $",
-    cellStats(Raster_GDP_Country, sum),
-    "mn"
-  )
-)
-
-Raster_GDP_Proxy_Impact <-
-  Raster_GDP_Proxy_Country[SP_Impact, drop = F]
-print(paste0(
-  DP_Country_Name,
-  " % GDP Impacted: ",
-  cellStats(Raster_GDP_Proxy_Impact, sum) * 100,
-  "%"
-))
-
-Raster_Pop_Impacted <- Raster_Pop_Country[SP_Impact, drop = F]
-print(paste0(
-  DP_Country_Name,
-  " Population Affected: ",
-  cellStats(Raster_Pop_Impacted, sum) / 10 ^ 6,
-  "mn"
-))
+source(Ref.DIR_FUNC_Output)
+Output.Print_Impact(DP_Country_ISO3,
+                    DP_Year,
+                    Raster_GDP_Proxy_Country,
+                    SP_Country,
+                    SP_Impact)
