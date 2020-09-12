@@ -30,10 +30,6 @@ SP_Countries <- ne_countries()
 SP_Country <- SP_Countries[!is.na(SP_Countries$iso_a3) & SP_Countries$iso_a3 == DP_Country_ISO3, ]
 SP_States <- ne_states(country = SP_Country$name)
 
-# Population Map
-source(Ref.DIR_FUNC_Pop)
-Raster_Pop_Country <- Pop.Get_Population_Raster(DP_Year, SP_Country) / 10 ^ 6
-
 # Impacted States
 VT_States_Core <- c("Hokkaido","Aomori","Iwate","Miyagi","Akita","Yamagata",
                     "Fukushima","Ibaraki","Tochigi","Gunma","Saitama","Chiba",
@@ -63,13 +59,9 @@ plot(CC_Impact, col=Color_Palette_Impact(1), add = T)
 
 # Extract Impacted Area from GDP Maps & Population Maps
 SP_Impact <- polygons(CC_Impact)
-Raster_GDP_Impact <- Raster_GDP_Country[SP_Impact, drop=F]
-print(paste0(DP_Country_ISO3, " GDP Impacted: $", cellStats(Raster_GDP_Impact, sum), "mn over Total: $", cellStats(Raster_GDP_Country, sum), "mn"))
-
-Raster_GDP_Proxy_Impact <- Raster_GDP_Proxy_Country[SP_Impact, drop=F]
-print(paste0(DP_Country_ISO3, " % GDP Impacted: ", cellStats(Raster_GDP_Proxy_Impact, sum)*100, "%"))
-
-Raster_Pop_Impacted <- Raster_Pop_Country[SP_Impact, drop=F]
-print(paste0(DP_Country_ISO3, " Population Affected: ", cellStats(Raster_Pop_Impacted, sum), "mn"))
-
-
+source(Ref.DIR_FUNC_Output)
+Output.Print_Impact(DP_Country_ISO3,
+                    DP_Year,
+                    Raster_GDP_Proxy_Country,
+                    SP_Country,
+                    SP_Impact)
