@@ -75,6 +75,8 @@ Output.Print_Impact <-
         country_iso3,
         " impacted produced captial: $",
         format(DP_PC_Impacted, nsmall = DP_DP),
+        "mn over total: $",
+        format(DP_PC_Country, nsmall = DP_DP),
         "mn, equivalent to ",
         format(DP_PC_Percent, nsmall = DP_DP),
         "% of GDP"
