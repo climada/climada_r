@@ -28,12 +28,12 @@ for (iso3 in unique(IMF_GDP_Quarterly_GDP$LOCATION)) {
 
 DF_Data_L0$Year <- as.numeric(substring(DF_Data_L0$TIME, 1, 4))
 DF_Data_L0 <-
-  DF_Data_L0[DF_Data_L0$Year >= 2000 & DF_Data_L0$Year < 2020, ]
+  DF_Data_L0[DF_Data_L0$Year >= 2000 & DF_Data_L0$Year <= 2020, ]
 
 DF_GDP_Grid <- data.frame(LOCATION = character(),
                           Change = numeric(),
                           Type = character())
-for (year in c(1, 3, 5, 10, 20)) {
+for (year in c(1, 3, 10, 25, 75)) {
   DF_Data_L0$Group <- floor(DF_Data_L0$Year / year)
   DF_Data_L1 <- aggregate(
     DF_Data_L0[, c("Change")],
