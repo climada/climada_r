@@ -4,6 +4,7 @@ Ref.DIR_DATA_Lit <- './Data/Lit/'
 Ref.DIR_DATA_Pop <- './Data/Pop/'
 Ref.DIR_DATA_DEM <- './Data/DEM'
 Ref.DIR_DATA_SPI <- './Data/SPI'
+Ref.DIR_Outputs <- './Outputs/'
 
 Ref.DIR_FUNC_Ref <- 'Ref.R'
 Ref.DIR_FUNC_MEF <- './Func/MEF.R'
