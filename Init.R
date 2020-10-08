@@ -63,3 +63,25 @@ plot(Raster_LitPop)
 # }
 # plot(Raster_SPI)
 
+source("Ref.R")
+DP_Country_ISO3 <- "IND"
+
+SP_States <-
+  getData(name = "GADM",
+          country = DP_Country_ISO3,
+          level = 1, 
+          path = Ref.DIR_DATA_Ref)
+DF_States <- SP_States@data
+write.csv(DF_States, file = paste0(Ref.DIR_DATA_Ref,DP_Country_ISO3, " States.csv"))
+
+
+SP_Cities <-
+  getData(name = "GADM",
+          country = DP_Country_ISO3,
+          level = 2, 
+          path = Ref.DIR_DATA_Ref)
+DF_Cities <- SP_Cities@data
+write.csv(DF_Cities, file = paste0(Ref.DIR_DATA_Ref,DP_Country_ISO3, " Cities.csv"))
+
+
+
